@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/🧠 AI Learning Roadmap.md",
-                "mode": "preview",
+                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/🧠 AI Learning Roadmap.md",
+                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/🧠 AI Learning Roadmap.md",
+                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/🧠 AI Learning Roadmap.md",
+                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,16 +181,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de63fd5c5c3370ee",
+  "active": "f48cdf1c3ba1a605",
   "lastOpenFiles": [
+    "AI/Roadmap",
     "Mathematics/mathmatics-book.pdf",
-    "Mathematics",
-    "AI/Mathematics road map.md",
-    "AI/🧠 AI Learning Roadmap.md",
-    "AI/Ai Learning Plan.md",
-    "AI/Brut Courses Plan.md",
-    "_Templates/Transformer Models.md",
     "Configure Obsidian.md",
+    "AI/Roadmap/Mathematics road map.md",
+    "AI/Roadmap/🧠 AI Learning Roadmap.md",
+    "Mathematics",
+    "AI/Roadmap/Ai Learning Plan.md",
+    "AI/Roadmap/Brut Courses Plan.md",
+    "_Templates/Transformer Models.md",
     "AI",
     "_Templates/Daily Notes.md",
     "Journaling/2025-11-08.md",
