@@ -57,3 +57,5 @@ git clone https://github.com/payns75/Learning.git
 #### Configure plugin
 
 Remote URL => https://github.com/payns75/Learning.git
+
+Then sync with GitHub repository by clicking on the git icon on the left side of obsidian.
