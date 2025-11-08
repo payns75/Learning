@@ -35,14 +35,15 @@
 
 - Calendar
 - Outliner
-- Git
+- GitHub Sync
 
 ### Git Setup
 
 ```bash
 git init
-git commit -m "first commit"
-git branch -M main
+git add .
+git commit -m "First commit."
 git remote add origin https://github.com/payns75/Learning.git
+git branch -M main
 git push -u origin main
 ```
