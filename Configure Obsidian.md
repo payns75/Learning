@@ -36,6 +36,7 @@
 - Calendar
 - Outliner
 - GitHub Sync
+- JupyMD
 
 ### Git Setup
 
@@ -59,3 +60,28 @@ git clone https://github.com/payns75/Learning.git
 Remote URL => https://github.com/payns75/Learning.git
 
 Then sync with GitHub repository by clicking on the git icon on the left side of obsidian.
+
+### JupyMD Setup
+
+#### Prerequisites
+
+##### Python
+
+##### Jupyter Notebook
+
+``` bash
+	  python -m install notebook
+	  ```
+
+##### Jupytext
+
+``` bash
+	  python -m install jupytext
+	  ```
+
+##### Matplotlib
+
+``` bash
+	  python -m install matplotlib
+	  ```
+	  

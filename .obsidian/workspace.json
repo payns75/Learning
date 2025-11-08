@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Configure Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Configure Obsidian"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Configure Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Configure Obsidian"
             }
           },
           {
@@ -156,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Configure Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Configure Obsidian"
             }
           },
           {
@@ -194,8 +197,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a5263500deb758ec",
+  "active": "cca65762b1afe54c",
   "lastOpenFiles": [
+    "Configuration.md",
     "Configure Obsidian.md",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled.canvas",
