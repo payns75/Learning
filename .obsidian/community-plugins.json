@@ -4,5 +4,6 @@
   "github-sync",
   "jupymd",
   "obsidian-rollover-daily-todos",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "dataview"
 ]

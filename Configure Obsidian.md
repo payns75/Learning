@@ -39,6 +39,7 @@
 
 - Calendar
 - Outliner
+- Dataview
 - GitHub Sync
 - JupyMD
 - Note refactor
