@@ -13,6 +13,10 @@
 	- Delete files: Move to Obsidian trash
 	- Default location for new notes: Same folder as current file
 	- Default location for new attachments: in the folder specified below => \_Attachments
+	- Excluded files
+		- \_Templates
+		- \_Attachments
+		- Journaling
 - Appearance
 	- Dark Mode
 	- Theme: Things
@@ -37,6 +41,8 @@
 - Outliner
 - GitHub Sync
 - JupyMD
+- Note refactor
+	- ==TBD==
 
 ### Git Setup
 

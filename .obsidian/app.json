@@ -2,5 +2,10 @@
   "showLineNumber": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "_Attachments"
+  "attachmentFolderPath": "_Attachments",
+  "userIgnoreFilters": [
+    "_Templates/",
+    "_Attachments/",
+    "Journaling/"
+  ]
 }
