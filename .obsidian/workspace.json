@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configure Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Configure Obsidian"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configure Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Configure Obsidian"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configure Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Configure Obsidian"
+              "title": "Outline"
             }
           },
           {
@@ -193,14 +190,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "cca65762b1afe54c",
+  "active": "a5263500deb758ec",
   "lastOpenFiles": [
+    "Configure Obsidian.md",
+    "_Attachments/Pasted image 20251108063058.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Configure Obsidian.md",
     "_Templates/Daily Notes.md",
     "Journaling",
     "_Attachments",

@@ -47,3 +47,13 @@ git remote add origin https://github.com/payns75/Learning.git
 git branch -M main
 git push -u origin main
 ```
+
+#### Adding existing repository
+
+```bash
+git clone https://github.com/payns75/Learning.git
+```
+
+#### Configure plugin
+
+Remote URL => https://github.com/payns75/Learning.git
