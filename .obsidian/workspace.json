@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configure Obsidian.md",
+                "file": "Journaling/2025-11-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configure Obsidian"
+              "title": "2025-11-08"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configure Obsidian.md",
+                "file": "Journaling/2025-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Configure Obsidian"
+              "title": "Backlinks for 2025-11-08"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configure Obsidian.md",
+                "file": "Journaling/2025-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Configure Obsidian"
+              "title": "Outgoing links from 2025-11-08"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configure Obsidian.md",
+                "file": "Journaling/2025-11-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Configure Obsidian"
+              "title": "Outline of 2025-11-08"
             }
           },
           {
@@ -199,12 +199,13 @@
   },
   "active": "cca65762b1afe54c",
   "lastOpenFiles": [
-    "Configuration.md",
     "Configure Obsidian.md",
+    "Journaling/2025-11-08.md",
+    "_Templates/Daily Notes.md",
+    "Configuration.md",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "_Templates/Daily Notes.md",
     "Journaling",
     "_Attachments",
     "_Templates"
