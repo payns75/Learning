@@ -44,6 +44,10 @@
 - JupyMD
 - Note refactor
 	- ==TBD==
+- Mind Map
+	- Excalidraw
+	- Advanced Canvas
+	- Canvas Mindmap
 
 ### Git Setup
 

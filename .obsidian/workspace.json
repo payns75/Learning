@@ -11,17 +11,38 @@
             "id": "de63fd5c5c3370ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "AI/Roadmap/Untitled.canvas",
+                "viewState": {
+                  "x": 122.45593856455764,
+                  "y": 244.187143678359,
+                  "zoom": -0.9999999999999998
+                }
               },
-              "icon": "lucide-file",
-              "title": "🧠 AI Learning Roadmap"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "1aa7ceeb5a637676",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AI/Roadmap/Untitled.canvas",
+                "viewState": {
+                  "x": 1559.0902281355568,
+                  "y": -677.2239081396285,
+                  "zoom": -1.7468641013620223
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
-                "followCursor": false,
+                "file": "AI/Roadmap/Untitled.canvas",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🧠 AI Learning Roadmap"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -177,27 +198,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f48cdf1c3ba1a605",
+  "active": "1aa7ceeb5a637676",
   "lastOpenFiles": [
+    "Journaling/2025-11-08.md",
+    "Excalidraw/Drawing 2025-11-09 17.38.55.excalidraw.md",
+    "AI/Roadmap/Untitled.canvas",
+    "Excalidraw",
+    "Configure Obsidian.md",
+    "AI/Roadmap/🧠 AI Learning Roadmap.md",
+    "AI/Roadmap/Untitled.base",
     "AI/Roadmap",
     "Mathematics/mathmatics-book.pdf",
-    "Configure Obsidian.md",
     "AI/Roadmap/Mathematics road map.md",
-    "AI/Roadmap/🧠 AI Learning Roadmap.md",
     "Mathematics",
     "AI/Roadmap/Ai Learning Plan.md",
     "AI/Roadmap/Brut Courses Plan.md",
     "_Templates/Transformer Models.md",
     "AI",
     "_Templates/Daily Notes.md",
-    "Journaling/2025-11-08.md",
     "Configuration.md",
     "_Attachments/Pasted image 20251108063058.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Journaling",
     "_Attachments",

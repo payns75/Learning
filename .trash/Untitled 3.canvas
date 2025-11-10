@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"4d433de6e156150e","x":-620,"y":-460,"width":760,"height":720,"type":"file","file":"AI/Roadmap/Mathematics road map.md"},
+		{"id":"4a3052601d353be5","x":340,"y":-460,"width":580,"height":640,"type":"file","file":"Mathematics/mathmatics-book.pdf"},
+		{"id":"b611073e344c9140","x":-125,"y":360,"width":425,"height":100,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"d0aaeb02a2912a51","fromNode":"4a3052601d353be5","fromSide":"left","toNode":"4d433de6e156150e","toSide":"right"}
+	]
+}

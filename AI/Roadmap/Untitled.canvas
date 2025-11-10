@@ -1,0 +1,51 @@
+{
+	"nodes":[
+		{"id":"9da7968f055fe2fd","type":"group","ratio":1.7777777777777777,"x":-400,"y":40,"width":2411,"height":1356,"label":"New Slide"},
+		{"id":"ce33329853709bec","type":"group","ratio":1.7777777777777777,"x":-1160,"y":-960,"width":1200,"height":675,"label":"Start Slide"},
+		{"id":"96bd52387a091eb9","type":"group","x":-370,"y":320,"width":300,"height":180,"label":"Untitled group"},
+		{"id":"9f5e20abbf5b0483","type":"text","text":"\t","x":560,"y":-260,"width":200,"height":100},
+		{"id":"e11969e8deffec6c","type":"text","text":"","x":920,"y":-290,"width":200,"height":100},
+		{"id":"10da87a7fa45a5ee","type":"text","text":"","x":1320,"y":-290,"width":200,"height":100},
+		{"id":"af9a26bbc5bebccf","type":"text","text":"","x":480,"y":-800,"width":200,"height":100},
+		{
+			"id":"1af5b753d5a7f912",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1060,
+			"y":-660,
+			"width":460,
+			"height":140
+		},
+		{"id":"9719a31bf056cc80","type":"text","text":"","x":-400,"y":-690,"width":200,"height":100,"color":"6"},
+		{"id":"88c5d8fbbd6efa75","type":"text","text":"\t","x":-400,"y":-541,"width":200,"height":100},
+		{
+			"id":"081324ceb03880c5",
+			"type":"text",
+			"text":"jgfdk klsdfjg **ldsfjg** *sdlfkg* \n\n![[Configure Obsidian#Core plugins]]",
+			"styleAttributes":{"border":"dotted","shape":"predefined-process"},
+			"x":1010,
+			"y":280,
+			"width":940,
+			"height":680,
+			"color":"1"
+		},
+		{"id":"445a3e7a8dac6428","type":"text","text":"","x":1750,"y":89,"width":200,"height":100},
+		{"id":"ea1fcaf7891088bf","type":"file","file":"AI/Roadmap/🧠 AI Learning Roadmap.md","x":2840,"y":-730,"width":760,"height":379}
+	],
+	"edges":[
+		{"id":"1d12613a9eb83b01","fromNode":"1af5b753d5a7f912","fromSide":"right","toNode":"9719a31bf056cc80","toSide":"left"},
+		{"id":"f790aeeaed6674fa","fromNode":"1af5b753d5a7f912","fromSide":"right","toNode":"88c5d8fbbd6efa75","toSide":"left"},
+		{"id":"a98c19012ad58338","fromNode":"88c5d8fbbd6efa75","fromSide":"right","toNode":"9f5e20abbf5b0483","toSide":"left"},
+		{"id":"f416cd782c73413a","fromNode":"88c5d8fbbd6efa75","fromSide":"right","toNode":"081324ceb03880c5","toSide":"left"},
+		{"id":"d9a7f496acce3088","fromNode":"9719a31bf056cc80","fromSide":"right","toNode":"af9a26bbc5bebccf","toSide":"left","color":"6"},
+		{"id":"8e2bb7553ccce9bd","fromNode":"af9a26bbc5bebccf","fromSide":"right","toNode":"e11969e8deffec6c","toSide":"left"},
+		{"id":"96cea3677e9dcabc","fromNode":"e11969e8deffec6c","fromSide":"right","toNode":"10da87a7fa45a5ee","toSide":"left"},
+		{"id":"3696bff14b4fc664","fromNode":"e11969e8deffec6c","fromSide":"right","toNode":"445a3e7a8dac6428","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"ce33329853709bec"
+	}
+}
