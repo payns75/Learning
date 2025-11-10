@@ -28,17 +28,14 @@
             "id": "1aa7ceeb5a637676",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI/Roadmap/Untitled.canvas",
-                "viewState": {
-                  "x": 1559.0902281355568,
-                  "y": -677.2239081396285,
-                  "zoom": -1.7468641013620223
-                }
+                "file": "AI/Roadmap/Brut Courses Plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Brut Courses Plan"
             }
           }
         ],
@@ -163,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Roadmap/Untitled.canvas",
+                "file": "AI/Roadmap/Brut Courses Plan.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Brut Courses Plan"
             }
           },
           {
@@ -198,25 +195,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "1aa7ceeb5a637676",
   "lastOpenFiles": [
+    "AI/Roadmap/Untitled.canvas",
+    "AI/Roadmap/Brut Courses Plan.md",
+    "AI/Roadmap/Mathematics road map.md",
+    "AI/Roadmap/Ai Learning Plan.md",
+    "AI/Roadmap/🧠 AI Learning Roadmap.md",
+    "Configure Obsidian.md",
     "Journaling/2025-11-08.md",
     "Excalidraw/Drawing 2025-11-09 17.38.55.excalidraw.md",
-    "AI/Roadmap/Untitled.canvas",
     "Excalidraw",
-    "Configure Obsidian.md",
-    "AI/Roadmap/🧠 AI Learning Roadmap.md",
     "AI/Roadmap/Untitled.base",
     "AI/Roadmap",
     "Mathematics/mathmatics-book.pdf",
-    "AI/Roadmap/Mathematics road map.md",
     "Mathematics",
-    "AI/Roadmap/Ai Learning Plan.md",
-    "AI/Roadmap/Brut Courses Plan.md",
     "_Templates/Transformer Models.md",
     "AI",
     "_Templates/Daily Notes.md",

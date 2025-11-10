@@ -147,3 +147,31 @@ https://huggingface.co/learn
 
 ### Fine-tuning for classification
 ### Fine tuning to follow instructions
+
+
+## Pratical Deep Learning for Coders  ==Site==
+
+https://course.fast.ai/Lessons/lesson1.html#resources
+
+
+## Deep Learning AI ==Site==
+
+https://www.deeplearning.ai/
+
+### Deep Learning Specialization - pour bien comprendre les réseaux neuronaux classiques 
+
+https://www.deeplearning.ai/courses/deep-learning-specialization/
+### Generative AI with LLMs (pour relier théorie et pratique moderne)
+
+https://www.deeplearning.ai/courses/generative-ai-with-llms/
+
+```mermaid
+flowchart TD
+  A[Math & ML Foundations] --> B[fast.ai Practical DL]
+  B --> C[DeepLearning.AI - Deep Learning Specialization]
+  C --> D[Hugging Face LLM Course]
+  D --> E[LLM from Scratch - Book]
+  E --> F[DeepLearning.AI - Generative AI with LLMs]
+  F --> G[LLMs for Production - Book]
+  G --> H[Agent Course / MCP]
+```

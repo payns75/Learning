@@ -20,3 +20,13 @@
 5. The Essential Math You Need for AI and Machine Learning — Medium article  
     [Lien] : [https://medium.com/%40morepravin1989/the-essential-math-you-need-for-ai-and-machine-learning-with-roadmap-and-resources-0a7d332466bb](https://medium.com/%40morepravin1989/the-essential-math-you-need-for-ai-and-machine-learning-with-roadmap-and-resources-0a7d332466bb?utm_source=chatgpt.com) [Medium](https://medium.com/%40morepravin1989/the-essential-math-you-need-for-ai-and-machine-learning-with-roadmap-and-resources-0a7d332466bb?utm_source=chatgpt.com)  
     **Pourquoi l’utiliser** : donne un “roadmap” pratique des concepts mathématiques essentiels pour l’IA.
+
+### 💡 Ressources proposées (Français)
+
+- OpenClassrooms — _Initiez-vous au Machine Learning_ (cours gratuit en français) : couvre les concepts de ML et introduit les mathématiques sous-jacentes. [openclassrooms.com](https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning?utm_source=chatgpt.com)
+    
+- Université de Toulouse — “Apprentissage Statistique” (PDF) : assez complet, avec probabilités, optimisation, analyse fonctionnelle. [math.univ-toulouse.fr](https://www.math.univ-toulouse.fr/~besse/pub/Appren_stat.pdf?utm_source=chatgpt.com)
+    
+- Université de Lyon 1 — Majeure “Mathématiques, apprentissage statistique et machine learning” : décrit un cadre d’enseignement français mixant math discrètes, statistiques, ML. [mastermas.univ-lyon1.fr](https://mastermas.univ-lyon1.fr/index.php/majeure-mathematiques-apprentissage-statistique-et-machine-learning/?utm_source=chatgpt.com)
+    
+- Université Rennes 2 — “Introduction au machine learning” (PDF) : version, en français, d’un cours d’initiation avec pré-requis probabilités/statistique. [lrouviere.github.io](https://lrouviere.github.io/machine_learning/cours_cepe_intro_ml.pdf?utm_source=chatgpt.com)
