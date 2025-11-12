@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"bd82a0818c7defa7","type":"group","x":1240,"y":-1370,"width":1410,"height":730,"label":"LLM Architecture"},
+		{"id":"bd82a0818c7defa7","type":"group","x":1000,"y":-1525,"width":1410,"height":730,"label":"LLM Architecture"},
 		{"id":"af9629e6183275d8","type":"group","x":-1200,"y":-240,"width":360,"height":920,"label":"Data preparation"},
 		{"id":"b16e7b83be8f9a45","type":"group","x":-400,"y":-1005,"width":1210,"height":210,"label":"Coding: Attention mechanisms"},
 		{
@@ -48,16 +48,6 @@
 			"color":"6"
 		},
 		{"id":"2a3b53aaaee832ae","type":"text","text":"Foundation model","x":920,"y":80,"width":200,"height":60,"color":"5"},
-		{
-			"id":"88ba688eb2f85dd8",
-			"type":"text",
-			"text":"4) Pretraining",
-			"styleAttributes":{},
-			"x":520,
-			"y":20,
-			"width":260,
-			"height":60
-		},
 		{"id":"ff291fe75ee5eac7","type":"text","text":"Classifier","x":1500,"y":-120,"width":200,"height":60,"color":"5"},
 		{"id":"1ab1634fdb0129da","type":"text","text":"Personal assistant","x":1500,"y":320,"width":200,"height":60,"color":"5"},
 		{
@@ -206,8 +196,8 @@
 			"type":"text",
 			"text":"Transformer block",
 			"styleAttributes":{},
-			"x":1790,
-			"y":-1130,
+			"x":1550,
+			"y":-1285,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -217,18 +207,19 @@
 			"type":"text",
 			"text":"1) GPT backbone",
 			"styleAttributes":{},
-			"x":1790,
-			"y":-740,
+			"x":1550,
+			"y":-895,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"6"
 		},
 		{
 			"id":"b8b759a63c7b3927",
 			"type":"text",
 			"text":"4) Feed forward network",
 			"styleAttributes":{},
-			"x":1990,
-			"y":-930,
+			"x":1750,
+			"y":-1085,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -238,8 +229,8 @@
 			"type":"text",
 			"text":"5) Shortcut connections",
 			"styleAttributes":{},
-			"x":2350,
-			"y":-930,
+			"x":2110,
+			"y":-1085,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -249,8 +240,8 @@
 			"type":"text",
 			"text":"2) Layer normalization",
 			"styleAttributes":{},
-			"x":1280,
-			"y":-930,
+			"x":1040,
+			"y":-1085,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -260,8 +251,8 @@
 			"type":"text",
 			"text":"3) GELU activation",
 			"styleAttributes":{},
-			"x":1630,
-			"y":-930,
+			"x":1390,
+			"y":-1085,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -271,11 +262,21 @@
 			"type":"text",
 			"text":"Final GPT architecture",
 			"styleAttributes":{},
-			"x":1790,
-			"y":-1330,
+			"x":1550,
+			"y":-1485,
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"88ba688eb2f85dd8",
+			"type":"text",
+			"text":"4) Pretraining",
+			"styleAttributes":{},
+			"x":600,
+			"y":20,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
