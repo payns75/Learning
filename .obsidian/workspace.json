@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "aadaa29d71e349e3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "viewState": {
+                  "x": 605,
+                  "y": -709.6123186204848,
+                  "zoom": -1.637874031759599
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Build a Large Language Model"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Build a Large Language Model"
             }
           },
           {
@@ -195,23 +212,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ffbfb6052fe4a915",
+  "active": "aadaa29d71e349e3",
   "lastOpenFiles": [
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "Untitled.md",
+    "AI/Roadmap/Mathematics road map.md",
+    "Untitled 1.md",
     "Configure Obsidian.md",
     "_Templates/Note Template.md",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Build a Large Language Model/Working with text data.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model",
     "AI/Roadmap/Brut Courses Plan.md",
     "AI/Roadmap/Untitled.canvas",
-    "AI/Roadmap/Mathematics road map.md",
     "AI/Roadmap/Ai Learning Plan.md",
     "AI/Roadmap/🧠 AI Learning Roadmap.md",
     "Journaling/2025-11-08.md",
