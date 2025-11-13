@@ -115,16 +115,6 @@
 			"color":"6"
 		},
 		{
-			"id":"fb3e58204de0728e",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":1080,
-			"y":920,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"fd058e225de8dfec",
 			"type":"text",
 			"text":"8) Fine-tuning",
