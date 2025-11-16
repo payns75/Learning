@@ -11,17 +11,24 @@
             "id": "3961215af3bc4430",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-                "viewState": {
-                  "x": -501.0003020383824,
-                  "y": -1427.1778434918383,
-                  "zoom": -1.1120076731676647
+                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Build a Large Language Model"
+              "icon": "lucide-file",
+              "title": "Coding attention mechanism"
             }
           }
         ]
@@ -97,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Build a Large Language Model"
+              "title": "Backlinks for Coding attention mechanism"
             }
           },
           {
@@ -116,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Build a Large Language Model"
+              "title": "Outgoing links from Coding attention mechanism"
             }
           },
           {
@@ -145,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Build a Large Language Model"
+              "title": "Outline of Coding attention mechanism"
             }
           },
           {
@@ -185,11 +192,11 @@
   },
   "active": "3961215af3bc4430",
   "lastOpenFiles": [
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Build a Large Language Model/Working with text data.md",
     "Untitled 3.md",

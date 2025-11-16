@@ -14,7 +14,7 @@ $$
 \mathtt{imputs} =
 \begin{bmatrix}
 0.43 & 0.15 & 0.89 \\
-0.55 & 0.87 & 0.66 \\
+\color{blue}0.55 & \color{blue}0.87 & \color{blue}0.66 \\
 0.57 & 0.85 & 0.64 \\
 0.22 & 0.58 & 0.33 \\
 0.77 & 0.25 & 0.10 \\
@@ -341,6 +341,8 @@ $$
 Finalement le code finale pour ces transformation est le suivant:
 
 ```python
+import torch
+
 # Tenseur d'entré:
 inputs = torch.tensor(
   [[0.43, 0.15, 0.89], # Your     (x^1)
@@ -360,4 +362,80 @@ attn_weights = torch.softmax(attn_scores, dim=-1)
 # Vecteur de contexte
 all_context_vecs = attn_weights @ inputs
 ```
+
+### Self attention
+
+> Implementing self-attention with trainable weights
+
+Comme précédemment, nous allons partir de notre matrice d'entrée et travailler dans un premier temps sur le mot *journey*.
+
+$$ 
+\mathtt{imputs} =
+\begin{bmatrix}
+0.43 & 0.15 & 0.89 \\
+\color{blue}0.55 & \color{blue}0.87 & \color{blue}0.66 \\
+0.57 & 0.85 & 0.64 \\
+0.22 & 0.58 & 0.33 \\
+0.77 & 0.25 & 0.10 \\
+0.05 & 0.80 & 0.55
+\end{bmatrix}
+\in\mathbb{R}^{6\times 3}
+$$
+
+Avec le code Python suivant, nous allons initier les valeurs de 3 matrices de poids Wq, Wk, et Wv avec des valeurs aléatoires.
+
+```python
+x_2 = inputs[1]     #1
+d_in = inputs.shape[1]      #2
+d_out = 2         #3
+#1 The second input element
+#2 The input embedding size, d=3
+#3 The output embedding size, d_out=2
+
+torch.manual_seed(123)
+# Option requires_grad=False pour le moment, lorsque nous utiliserons le modèle pour l'entrainement, nous chnagerons la valeur à True.
+W_query = torch.nn.Parameter(torch.rand(d_in, d_out), requires_grad=False)
+W_key   = torch.nn.Parameter(torch.rand(d_in, d_out), requires_grad=False)
+W_value = torch.nn.Parameter(torch.rand(d_in, d_out), requires_grad=False)
+```
+
+$$ 
+\mathtt{W\_query} =
+\begin{bmatrix}
+0.2961 & 0.5166 \\
+0.2517 & 0.6886 \\
+0.0740 & 0.8665
+\end{bmatrix}
+$$
+
+Si nous voulons calculer la matrice de **query** de notre premier mot *journey*, il suffit de faire des multiplications de matrice.
+
+$$ 
+\mathtt{query\_2} = w\_query \cdot x\_2 = 
+\begin{bmatrix}
+0.2961 & 0.5166 \\
+0.2517 & 0.6886 \\
+0.0740 & 0.8665
+\end{bmatrix}
+\cdot
+\begin{bmatrix}
+\color{blue}{0.55} & \color{blue}{0.87} & \color{blue}{0.66}
+\end{bmatrix}
+$$
+
+$$
+\mathtt{query\_2}
+=
+\begin{bmatrix}
+0.55\cdot0.2961 + 0.87\cdot0.2517 + 0.66\cdot0.0740 &
+0.55\cdot0.5166 + 0.87\cdot0.6886 + 0.66\cdot0.8665
+\end{bmatrix}
+$$
+$$
+\mathtt{query\_2} =
+\begin{bmatrix}
+0.4306 & 1.4551
+\end{bmatrix}
+$$
+
 
