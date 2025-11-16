@@ -3,117 +3,10 @@
 		{"id":"bd82a0818c7defa7","type":"group","x":280,"y":-1890,"width":1410,"height":730,"label":"LLM Architecture"},
 		{"id":"af9629e6183275d8","type":"group","x":-1200,"y":-240,"width":360,"height":920,"label":"Data preparation"},
 		{"id":"b16e7b83be8f9a45","type":"group","x":-1120,"y":-1680,"width":1210,"height":210,"label":"Coding: Attention mechanisms"},
-		{
-			"id":"73c2dd4b5a21fafd",
-			"type":"text",
-			"text":"Input embeddings",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":-185,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"b7d4e3a5b7fb419c",
-			"type":"text",
-			"text":"Positional embeddings",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":-40,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"7e06d12ced83ec54",
-			"type":"text",
-			"text":"Output text",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":-800,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f8bf050247fd8cab",
-			"type":"text",
-			"text":"Postprocessing steps",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":-655,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"087519f89b40f0c8",
-			"type":"text",
-			"text":"GPT-like\ndecoder-only\ntransformer",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":-1200,
-			"y":-510,
-			"width":360,
-			"height":160,
-			"color":"5"
-		},
-		{
-			"id":"7ecd455eade673f4",
-			"type":"text",
-			"text":"Token embeddings",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":105,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"99e7ce37b914df74",
-			"type":"text",
-			"text":"1) Data preparation & sampling",
-			"styleAttributes":{},
-			"x":-260,
-			"y":-180,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
+		{"id":"7c41329294890dca","type":"group","x":-1800,"y":-1900,"width":360,"height":520,"label":"Simplified self attention"},
 		{"id":"2a3b53aaaee832ae","type":"text","text":"Foundation model","x":920,"y":80,"width":200,"height":60,"color":"5"},
 		{"id":"ff291fe75ee5eac7","type":"text","text":"Classifier","x":1500,"y":-120,"width":200,"height":60,"color":"5"},
 		{"id":"1ab1634fdb0129da","type":"text","text":"Personal assistant","x":1500,"y":320,"width":200,"height":60,"color":"5"},
-		{
-			"id":"4177f799675c386f",
-			"type":"text",
-			"text":"Intput Text",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":540,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"f859ef9e47edc184",
-			"type":"text",
-			"text":"Token IDs",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":250,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"328484675fed3b7f",
-			"type":"text",
-			"text":"Tokenized Text",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":395,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
 		{
 			"id":"fd058e225de8dfec",
 			"type":"text",
@@ -181,6 +74,125 @@
 			"color":"3"
 		},
 		{
+			"id":"99e7ce37b914df74",
+			"type":"text",
+			"text":"1) Data preparation & sampling",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-180,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"79a97d54aabeec45",
+			"type":"text",
+			"text":"1) GPT backbone",
+			"styleAttributes":{},
+			"x":830,
+			"y":-1260,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"087519f89b40f0c8",
+			"type":"text",
+			"text":"GPT-like\ndecoder-only\ntransformer",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1200,
+			"y":-510,
+			"width":360,
+			"height":160,
+			"color":"5"
+		},
+		{
+			"id":"73c2dd4b5a21fafd",
+			"type":"text",
+			"text":"Input embeddings",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":-185,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b7d4e3a5b7fb419c",
+			"type":"text",
+			"text":"Positional embeddings",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"7e06d12ced83ec54",
+			"type":"text",
+			"text":"Output text",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":-800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f8bf050247fd8cab",
+			"type":"text",
+			"text":"Postprocessing steps",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":-655,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7ecd455eade673f4",
+			"type":"text",
+			"text":"Token embeddings",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":105,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"4177f799675c386f",
+			"type":"text",
+			"text":"Intput Text",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":540,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f859ef9e47edc184",
+			"type":"text",
+			"text":"Token IDs",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":250,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"328484675fed3b7f",
+			"type":"text",
+			"text":"Tokenized Text",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":395,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"87c9eed4b8fe3d37",
 			"type":"text",
 			"text":"2) Layer normalization",
@@ -198,39 +210,6 @@
 			"styleAttributes":{},
 			"x":670,
 			"y":-1450,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"ad1ccf4e44e839ca",
-			"type":"text",
-			"text":"Final GPT architecture",
-			"styleAttributes":{},
-			"x":830,
-			"y":-1850,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"83bc1cf8a647b436",
-			"type":"text",
-			"text":"Transformer block",
-			"styleAttributes":{},
-			"x":830,
-			"y":-1650,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"79a97d54aabeec45",
-			"type":"text",
-			"text":"1) GPT backbone",
-			"styleAttributes":{},
-			"x":830,
-			"y":-1260,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -270,7 +249,52 @@
 		},
 		{"id":"49cadfdb6d94dcfb","type":"text","text":"2) Self-attention","x":-740,"y":-1600,"width":200,"height":60,"color":"6"},
 		{"id":"399bc72261406f09","type":"text","text":"3) Causal attention","x":-470,"y":-1600,"width":200,"height":60,"color":"6"},
-		{"id":"c35998c1647da7de","type":"text","text":"4) Multi-head attention","x":-210,"y":-1600,"width":220,"height":60,"color":"6"}
+		{"id":"c35998c1647da7de","type":"text","text":"4) Multi-head attention","x":-210,"y":-1600,"width":220,"height":60,"color":"6"},
+		{
+			"id":"83bc1cf8a647b436",
+			"type":"text",
+			"text":"Transformer block",
+			"styleAttributes":{},
+			"x":830,
+			"y":-1650,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"ad1ccf4e44e839ca",
+			"type":"text",
+			"text":"Final GPT architecture",
+			"styleAttributes":{},
+			"x":830,
+			"y":-1850,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"7c237b4b26e6888f",
+			"type":"text",
+			"text":"1) Compute attention scores",
+			"styleAttributes":{},
+			"x":-1760,
+			"y":-1850,
+			"width":280,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"124c007a5b33d010","type":"text","text":"2) Compute attention weights","x":-1760,"y":-1680,"width":280,"height":60,"color":"3"},
+		{
+			"id":"0d5e17ad506af05d",
+			"type":"text",
+			"text":"3) Compute context vectors",
+			"styleAttributes":{},
+			"x":-1760,
+			"y":-1480,
+			"width":280,
+			"height":60,
+			"color":"3"
+		}
 	],
 	"edges":[
 		{"id":"a27983bfb8e34366","fromNode":"337537afdb23545b","fromSide":"right","toNode":"2a3b53aaaee832ae","toSide":"left","color":"5"},
@@ -480,6 +504,26 @@
 			"toNode":"bd82a0818c7defa7",
 			"toSide":"bottom",
 			"color":"6"
+		},
+		{"id":"313292a32e6d0c68","toFloating":false,"fromFloating":false,"fromNode":"7c237b4b26e6888f","fromSide":"bottom","toNode":"124c007a5b33d010","toSide":"top","color":"3"},
+		{
+			"id":"ccb0a2dda0923372",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"124c007a5b33d010",
+			"fromSide":"bottom",
+			"toNode":"0d5e17ad506af05d",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"fdfacd3d77a26f20",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7c41329294890dca",
+			"fromSide":"right",
+			"toNode":"6e7693adc16d5eee",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
