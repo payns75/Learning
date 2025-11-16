@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Coding attention mechanism"
             }
+          },
+          {
+            "id": "8107b61ba61867cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coding attention mechanism"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coding attention mechanism"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coding attention mechanism"
+              "title": "Outline"
             }
           },
           {
@@ -172,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,20 +198,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3961215af3bc4430",
+  "active": "8107b61ba61867cc",
   "lastOpenFiles": [
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
+    "AI/Build a Large Language Model/Fine-tuning for classification.md",
+    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
+    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Build a Large Language Model/Working with text data.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "Untitled.md",
     "Untitled 1.md",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/🧠 AI Learning Roadmap.md",
-    "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
-    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
-    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "_Templates/Note Template.md",
     "AI/Build a Large Language Model/Untitled.base",
     "AI/Roadmap/Ai Learning Plan.md",
