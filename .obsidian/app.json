@@ -1,5 +1,5 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "trashOption": "local",
   "newFileLocation": "current",
   "attachmentFolderPath": "_Attachments",
@@ -9,5 +9,18 @@
     "Journaling/"
   ],
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "focusNewTab": true,
+  "propertiesInDocument": "hidden",
+  "tabSize": 4,
+  "useTab": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true
 }

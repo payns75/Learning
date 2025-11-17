@@ -65,9 +65,33 @@
               "icon": "lucide-file",
               "title": "BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH"
             }
+          },
+          {
+            "id": "aa390befe1c18c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+                "file": "Untitled 4.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH"
+              "title": "Outline of Untitled 4"
             }
           },
           {
@@ -226,14 +250,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "420bf98e593847de",
+  "active": "aa390befe1c18c4f",
   "lastOpenFiles": [
+    "Untitled 4.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "Untitled 3.md",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/Mathematics road map.md",
     "AI/Build a Large Language Model/Working with text data.md",
     "Untitled 2.md",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "Untitled.md",
     "Untitled 1.md",
     "Configure Obsidian.md",
