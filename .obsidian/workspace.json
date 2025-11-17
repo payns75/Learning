@@ -56,17 +56,14 @@
             "id": "420bf98e593847de",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-                "viewState": {
-                  "x": -1416.614776814697,
-                  "y": 514.865299309681,
-                  "zoom": 0.09945595484100245
-                }
+                "file": "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Build a Large Language Model"
+              "icon": "lucide-file",
+              "title": "BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH"
             }
           }
         ],
@@ -191,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "file": "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Build a Large Language Model"
+              "title": "Outline of BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH"
             }
           },
           {
@@ -231,11 +228,11 @@
   },
   "active": "420bf98e593847de",
   "lastOpenFiles": [
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/Mathematics road map.md",
     "AI/Build a Large Language Model/Working with text data.md",
     "Untitled 2.md",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "Untitled.md",
     "Untitled 1.md",

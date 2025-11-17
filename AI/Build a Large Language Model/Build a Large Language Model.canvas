@@ -15,17 +15,6 @@
 			"color":"6"
 		},
 		{
-			"id":"b7d4e3a5b7fb419c",
-			"type":"text",
-			"text":"Positional embeddings",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":-40,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"7e06d12ced83ec54",
 			"type":"text",
 			"text":"Output text",
@@ -55,50 +44,6 @@
 			"width":360,
 			"height":160,
 			"color":"5"
-		},
-		{
-			"id":"7ecd455eade673f4",
-			"type":"text",
-			"text":"Token embeddings",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":105,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"4177f799675c386f",
-			"type":"text",
-			"text":"Intput Text",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":540,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"f859ef9e47edc184",
-			"type":"text",
-			"text":"Token IDs",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":250,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"328484675fed3b7f",
-			"type":"text",
-			"text":"Tokenized Text",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":395,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"99e7ce37b914df74",
@@ -272,14 +217,59 @@
 			"color":"3"
 		},
 		{
-			"id":"a8dd2eda0d50bd95",
+			"id":"7ecd455eade673f4",
 			"type":"text",
-			"text":"",
+			"text":"Token embeddings",
 			"styleAttributes":{},
-			"x":-1540,
-			"y":480,
+			"x":-1150,
+			"y":105,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"4177f799675c386f",
+			"type":"text",
+			"text":"Intput Text",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":540,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f859ef9e47edc184",
+			"type":"text",
+			"text":"Token IDs",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":250,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"328484675fed3b7f",
+			"type":"text",
+			"text":"Tokenized Text",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":395,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b7d4e3a5b7fb419c",
+			"type":"text",
+			"text":"Positional embeddings",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
