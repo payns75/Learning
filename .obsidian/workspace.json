@@ -11,24 +11,17 @@
             "id": "3961215af3bc4430",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -610,
+                  "zoom": -1.1120076731676647
                 }
               },
-              "icon": "lucide-file",
-              "title": "Coding attention mechanism"
+              "icon": "lucide-layout-dashboard",
+              "title": "Build a Large Language Model"
             }
           }
         ]
@@ -152,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coding attention mechanism"
+              "title": "Outline of Build a Large Language Model"
             }
           },
           {
@@ -192,9 +185,9 @@
   },
   "active": "3961215af3bc4430",
   "lastOpenFiles": [
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
