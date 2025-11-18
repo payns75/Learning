@@ -58,12 +58,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Build a Large Language Model/Working with text data.md",
+                "file": "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Working with text data"
+              "title": "Fine tuning to follow instructions"
             }
           }
         ],
@@ -188,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Working with text data.md",
+                "file": "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Working with text data"
+              "title": "Outline of Fine tuning to follow instructions"
             }
           },
           {
@@ -228,13 +238,13 @@
   },
   "active": "420bf98e593847de",
   "lastOpenFiles": [
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "AI/Build a Large Language Model/Working with text data.md",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/Mathematics road map.md",
-    "AI/Build a Large Language Model/Working with text data.md",
     "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
