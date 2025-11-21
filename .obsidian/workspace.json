@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Build a Large Language Model"
             }
+          },
+          {
+            "id": "a7de44b7a9236b89",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+                "viewState": {
+                  "x": -1753,
+                  "y": 680,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Build a Large Language Model"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +201,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3961215af3bc4430",
+  "active": "a7de44b7a9236b89",
   "lastOpenFiles": [
+    "Untitled 5.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "Untitled 4.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
