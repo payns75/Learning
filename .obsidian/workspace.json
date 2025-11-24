@@ -32,9 +32,9 @@
               "state": {
                 "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
                 "viewState": {
-                  "x": -1753,
-                  "y": 680,
-                  "zoom": 0
+                  "x": -18.892126238881644,
+                  "y": -359.0592214086273,
+                  "zoom": -1.445341006500998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -203,10 +203,10 @@
   },
   "active": "a7de44b7a9236b89",
   "lastOpenFiles": [
-    "Untitled 5.md",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "Untitled 4.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "Untitled 5.md",
+    "Untitled 4.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
