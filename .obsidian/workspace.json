@@ -43,41 +43,17 @@
               "state": {
                 "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
                 "viewState": {
-                  "x": 605,
-                  "y": 158.65492275882553,
-                  "zoom": -1.637874031759599
+                  "x": -111.1158975018351,
+                  "y": -357.45462483410375,
+                  "zoom": -1.6746285385695414
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Build a Large Language Model"
             }
-          },
-          {
-            "id": "420bf98e593847de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fine tuning to follow instructions"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
+                "file": "AI/Build a Large Language Model/Build a Large Language Model.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fine tuning to follow instructions"
+              "title": "Outline of Build a Large Language Model"
             }
           },
           {
@@ -236,30 +212,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "420bf98e593847de",
+  "active": "aadaa29d71e349e3",
   "lastOpenFiles": [
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model/Working with text data.md",
+    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
+    "AI/Roadmap/AI Learning Roadmap.md",
+    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/Mathematics road map.md",
     "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
     "Configure Obsidian.md",
     "_Templates/Note Template.md",
-    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model",
     "AI/Roadmap/Brut Courses Plan.md",
     "AI/Roadmap/Untitled.canvas",
     "AI/Roadmap/Ai Learning Plan.md",
-    "AI/Roadmap/🧠 AI Learning Roadmap.md",
     "Journaling/2025-11-08.md",
     "Excalidraw/Drawing 2025-11-09 17.38.55.excalidraw.md",
     "Excalidraw",
