@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Roadmap/Ai Learning Plan.md",
-                "mode": "preview",
-                "source": false
+                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Ai Learning Plan"
+              "title": "Coding attention mechanism"
             }
           }
         ]
@@ -98,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,6 +174,23 @@
   },
   "active": "1c2e248c6666fbd9",
   "lastOpenFiles": [
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
+    "AI/Roadmap/Ai Learning Plan.md",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "AI/Roadmap/Mathematics road map.md",
+    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
+    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "AI/Build a Large Language Model/Working with text data.md",
+    "AI/Build a Large Language Model/Fine-tuning for classification.md",
+    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
+    "AI/Build a Large Language Model",
+    "_Templates/Note Template.md",
     "AI/Roadmap/🧠 AI Learning Roadmap.md"
   ]
 }
