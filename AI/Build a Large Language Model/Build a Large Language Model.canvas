@@ -39,6 +39,19 @@
 			"height":60,
 			"color":"6"
 		},
+		{"id":"49cadfdb6d94dcfb","type":"text","text":"2) Self-attention","x":-740,"y":-1600,"width":200,"height":60,"color":"6"},
+		{"id":"399bc72261406f09","type":"text","text":"3) Causal attention","x":-470,"y":-1600,"width":200,"height":60,"color":"6"},
+		{
+			"id":"99e7ce37b914df74",
+			"type":"text",
+			"text":"1) Data preparation & sampling",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-180,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
 		{
 			"id":"af36ea73d249d480",
 			"type":"text",
@@ -51,53 +64,6 @@
 			"color":"6"
 		},
 		{
-			"id":"87c9eed4b8fe3d37",
-			"type":"text",
-			"text":"2) Layer normalization",
-			"styleAttributes":{},
-			"x":320,
-			"y":-1450,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"cb270fd3c1e850e1",
-			"type":"text",
-			"text":"3) GELU activation",
-			"styleAttributes":{},
-			"x":670,
-			"y":-1450,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{"id":"2a3b53aaaee832ae","type":"text","text":"Foundation model","x":920,"y":80,"width":200,"height":60,"color":"5"},
-		{
-			"id":"fd058e225de8dfec",
-			"type":"text",
-			"text":"8) Fine-tuning",
-			"styleAttributes":{},
-			"x":1070,
-			"y":-90,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{"id":"49cadfdb6d94dcfb","type":"text","text":"2) Self-attention","x":-740,"y":-1600,"width":200,"height":60,"color":"6"},
-		{"id":"399bc72261406f09","type":"text","text":"3) Causal attention","x":-470,"y":-1600,"width":200,"height":60,"color":"6"},
-		{
-			"id":"c89fb0722bf6a5d0",
-			"type":"text",
-			"text":"9) Fine-tuning",
-			"styleAttributes":{},
-			"x":1070,
-			"y":260,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"7e06d12ced83ec54",
 			"type":"text",
 			"text":"Output text",
@@ -107,7 +73,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"ff291fe75ee5eac7","type":"text","text":"Classifier","x":1500,"y":-120,"width":200,"height":60,"color":"5"},
 		{
 			"id":"88ba688eb2f85dd8",
 			"type":"text",
@@ -118,29 +83,6 @@
 			"width":260,
 			"height":60,
 			"color":"3"
-		},
-		{
-			"id":"ad1ccf4e44e839ca",
-			"type":"text",
-			"text":"Final GPT architecture",
-			"styleAttributes":{},
-			"x":830,
-			"y":-1850,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{"id":"1ab1634fdb0129da","type":"text","text":"Personal assistant","x":1500,"y":320,"width":200,"height":60,"color":"5"},
-		{
-			"id":"99e7ce37b914df74",
-			"type":"text",
-			"text":"1) Data preparation & sampling",
-			"styleAttributes":{},
-			"x":-260,
-			"y":-180,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"087519f89b40f0c8",
@@ -197,17 +139,6 @@
 			"color":"6"
 		},
 		{
-			"id":"f859ef9e47edc184",
-			"type":"text",
-			"text":"Token IDs",
-			"styleAttributes":{},
-			"x":-1150,
-			"y":250,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"337537afdb23545b",
 			"type":"text",
 			"text":"Building an LLM",
@@ -219,12 +150,81 @@
 			"color":"5"
 		},
 		{
+			"id":"87c9eed4b8fe3d37",
+			"type":"text",
+			"text":"2) Layer normalization",
+			"styleAttributes":{},
+			"x":320,
+			"y":-1450,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"cb270fd3c1e850e1",
+			"type":"text",
+			"text":"3) GELU activation",
+			"styleAttributes":{},
+			"x":670,
+			"y":-1450,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{"id":"2a3b53aaaee832ae","type":"text","text":"Foundation model","x":920,"y":80,"width":200,"height":60,"color":"5"},
+		{
+			"id":"fd058e225de8dfec",
+			"type":"text",
+			"text":"8) Fine-tuning",
+			"styleAttributes":{},
+			"x":1070,
+			"y":-90,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"c89fb0722bf6a5d0",
+			"type":"text",
+			"text":"9) Fine-tuning",
+			"styleAttributes":{},
+			"x":1070,
+			"y":260,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"ff291fe75ee5eac7","type":"text","text":"Classifier","x":1500,"y":-120,"width":200,"height":60,"color":"5"},
+		{"id":"1ab1634fdb0129da","type":"text","text":"Personal assistant","x":1500,"y":320,"width":200,"height":60,"color":"5"},
+		{
+			"id":"f859ef9e47edc184",
+			"type":"text",
+			"text":"Token IDs",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":250,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"328484675fed3b7f",
 			"type":"text",
 			"text":"Tokenized Text",
 			"styleAttributes":{},
 			"x":-1150,
 			"y":395,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"ad1ccf4e44e839ca",
+			"type":"text",
+			"text":"Final GPT architecture",
+			"styleAttributes":{},
+			"x":830,
+			"y":-1850,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -481,6 +481,16 @@
 			"fromSide":"right",
 			"toNode":"49cadfdb6d94dcfb",
 			"toSide":"left"
+		},
+		{
+			"id":"4554bd9a02f4349c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ecd455eade673f4",
+			"fromSide":"top",
+			"toNode":"73c2dd4b5a21fafd",
+			"toSide":"bottom",
+			"color":"6"
 		}
 	],
 	"metadata":{
