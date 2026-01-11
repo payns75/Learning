@@ -42,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,14 +183,16 @@
   },
   "active": "3961215af3bc4430",
   "lastOpenFiles": [
+    "sync.md",
+    "AI/Build a Large Language Model/Working with text data.md",
+    "AI/Build a Large Language Model/Untitled.md",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Build a Large Language Model/Working with text data.md",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "Configure Obsidian.md",
     "Untitled 6.md",
     "Général/Briller à l'oral - Pratique.md",
@@ -210,7 +212,6 @@
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "_Templates/Note Template.md",
     "AI/Build a Large Language Model/Untitled.base",
-    "AI/Roadmap/Ai Learning Plan.md",
     "AI/Roadmap/Untitled.canvas",
     "AI/Build a Large Language Model",
     "Excalidraw",
