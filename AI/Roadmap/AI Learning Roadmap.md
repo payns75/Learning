@@ -1,6 +1,5 @@
 
 > **Objectif :** Acquérir une compréhension approfondie du fonctionnement des IA modernes (LLMs, agents, RAG, diffusion, etc.) à travers trois axes : pratique (Hugging Face), théorique (LLM from Scratch), et opérationnel (LLMs for Production).  
-> **Outil de prise de notes :** Obsidian
 
 ---
 

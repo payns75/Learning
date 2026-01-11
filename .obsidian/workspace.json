@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "file": "AI/Build a Large Language Model/Working with text data.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Coding attention mechanism"
+              "title": "Working with text data"
             }
           }
         ]
@@ -152,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "file": "AI/Build a Large Language Model/Working with text data.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coding attention mechanism"
+              "title": "Outline of Working with text data"
             }
           },
           {
@@ -192,42 +183,44 @@
   },
   "active": "3961215af3bc4430",
   "lastOpenFiles": [
+    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
+    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
+    "AI/Build a Large Language Model/Fine-tuning for classification.md",
+    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model/Working with text data.md",
-    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
-    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "Configure Obsidian.md",
+    "Untitled 6.md",
+    "Général/Briller à l'oral - Pratique.md",
+    "Général/Briller à l'oral - Être convaincant.md",
+    "Général/BRILLER À L'ORAL - POUR LES NULS.md",
+    "Général/Briller à l'oral - Le non verbal.md",
+    "Général/Briller à l'oral - Historique.md",
+    "Général/Briller à l'oral - Conseils.md",
+    "Général",
     "AI/Roadmap/AI Learning Roadmap.md",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "Untitled 5.md",
     "Untitled 4.md",
-    "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "Untitled.md",
     "Untitled 1.md",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "_Templates/Note Template.md",
     "AI/Build a Large Language Model/Untitled.base",
     "AI/Roadmap/Ai Learning Plan.md",
-    "_Templates/Daily Notes.md",
-    "Configure Obsidian.md",
-    "AI/Roadmap/Mathematics road map.md",
     "AI/Roadmap/Untitled.canvas",
     "AI/Build a Large Language Model",
-    "Journaling/2025-11-08.md",
-    "Excalidraw/Drawing 2025-11-09 17.38.55.excalidraw.md",
     "Excalidraw",
     "AI/Roadmap/Untitled.base",
     "AI/Roadmap",
     "Mathematics/mathmatics-book.pdf",
     "Mathematics",
     "AI",
-    "Configuration.md",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled 1.canvas",
-    "Journaling",
-    "_Attachments"
+    "Journaling"
   ]
 }
