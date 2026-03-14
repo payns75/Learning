@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Général/Briller à l'oral - Historique.md",
+                "file": "Journaling/2025-11-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Briller à l'oral - Historique"
+              "title": "2025-11-08"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Général/Briller à l'oral - Historique.md",
+                "file": "Journaling/2025-11-08.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Briller à l'oral - Historique"
+              "title": "Outline of 2025-11-08"
             }
           },
           {
@@ -181,27 +181,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3961215af3bc4430",
+  "active": "f48cdf1c3ba1a605",
   "lastOpenFiles": [
-    "Général/Briller à l'oral - Être convaincant.md",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "Phylosophie",
+    "Untitled 6.md",
+    "Journaling/2025-11-08.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
+    "Art Oratoire/Briller à l'oral",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
     "AI/Build a Large Language Model/Working with text data.md",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "sync.md",
     "AI/Build a Large Language Model/Untitled.md",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
     "AI/Build a Large Language Model/Fine-tuning for classification.md",
     "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "Configure Obsidian.md",
-    "Untitled 6.md",
-    "Général/Briller à l'oral - Pratique.md",
-    "Général/BRILLER À L'ORAL - POUR LES NULS.md",
-    "Général/Briller à l'oral - Le non verbal.md",
-    "Général/Briller à l'oral - Historique.md",
-    "Général/Briller à l'oral - Conseils.md",
-    "Général",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Pratique.md",
+    "Art Oratoire/Briller à l'oral/BRILLER À L'ORAL - POUR LES NULS.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
+    "Art Oratoire",
     "AI/Roadmap/AI Learning Roadmap.md",
     "Untitled 5.md",
     "Untitled 4.md",
@@ -209,8 +212,6 @@
     "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
-    "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
-    "_Templates/Note Template.md",
     "AI/Build a Large Language Model/Untitled.base",
     "AI/Roadmap/Untitled.canvas",
     "AI/Build a Large Language Model",
@@ -221,7 +222,6 @@
     "Mathematics",
     "AI",
     "_Attachments/Pasted image 20251108063058.png",
-    "Untitled 1.canvas",
-    "Journaling"
+    "Untitled 1.canvas"
   ]
 }
