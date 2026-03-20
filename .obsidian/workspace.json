@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Philosophes/Philosophes.md",
+                "file": "Philosophie/Courants/Courants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Philosophes"
+              "title": "Courants"
             }
           }
         ],
@@ -106,7 +106,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -204,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Philosophes/Philosophes.md",
+                "file": "Philosophie/Courants/Courants.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Philosophes"
+              "title": "Plan de Courants"
             }
           },
           {
@@ -232,21 +232,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "github-sync:Sync with Remote": false,
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "f48cdf1c3ba1a605",
+  "active": "67b26c7388a3cb9e",
   "lastOpenFiles": [
-    "Philosophie/Glossary/Glossary.md",
     "Philosophie/Philosophes/Philosophes.md",
+    "Philosophie/Glossary/Glossary.md",
     "Philosophie/Époques/Époques.md",
     "Philosophie/Courants/Courants.md",
     "Philosophie/PLAN D'ÉTUDE.md",
