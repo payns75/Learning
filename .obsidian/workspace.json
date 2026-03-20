@@ -4,25 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab2c5af6b0d5197",
+        "id": "f4ff5233c16732c6",
         "type": "tabs",
         "children": [
           {
-            "id": "3961215af3bc4430",
+            "id": "7250084ef02d154e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journaling/2025-11-08.md",
+                "file": "Philosophie/PLAN D'ÉTUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-08"
+              "title": "PLAN D'ÉTUDE"
+            }
+          },
+          {
+            "id": "c5bf7674d84d6370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/Courants/Courants.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Courants"
+            }
+          },
+          {
+            "id": "619f7ef1da07b1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/Époques/Époques.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Époques"
+            }
+          },
+          {
+            "id": "9a50e8026b5339a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/Glossary/Glossary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossary"
+            }
+          },
+          {
+            "id": "67b26c7388a3cb9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/Philosophes/Philosophes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Philosophes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -42,7 +103,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -95,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coding attention mechanism"
+              "title": "Backlinks for 🧠 AI Learning Roadmap"
             }
           },
           {
@@ -114,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Build a Large Language Model/Coding attention mechanism.md",
+                "file": "AI/Roadmap/🧠 AI Learning Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coding attention mechanism"
+              "title": "Outgoing links from 🧠 AI Learning Roadmap"
             }
           },
           {
@@ -143,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journaling/2025-11-08.md",
+                "file": "Philosophie/Philosophes/Philosophes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-08"
+              "title": "Outline of Philosophes"
             }
           },
           {
@@ -158,8 +219,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -167,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,49 +239,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "markwhen:Create new Markwhen file": false
     }
   },
   "active": "f48cdf1c3ba1a605",
   "lastOpenFiles": [
-    "Phylosophie",
-    "Untitled 6.md",
-    "Journaling/2025-11-08.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
-    "Art Oratoire/Briller à l'oral",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
-    "AI/Build a Large Language Model/Working with text data.md",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
-    "sync.md",
-    "AI/Build a Large Language Model/Untitled.md",
-    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
-    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
-    "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
+    "Philosophie/Glossary/Glossary.md",
+    "Philosophie/Philosophes/Philosophes.md",
+    "Philosophie/Époques/Époques.md",
+    "Philosophie/Courants/Courants.md",
+    "Philosophie/PLAN D'ÉTUDE.md",
+    "Philosophie/Courants",
+    "Philosophie/Époques",
+    "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
+    "Philosophie/Philosophes",
+    "Philosophie/Glossary",
+    "Markwhen/Markwhen 3-16-2026 10.40.14.mw",
+    "Markwhen",
+    "Markwhen/Markwhen 3-16-2026 09.43.25.mw",
+    "Markwhen/Markwhen 3-16-2026 09.43.27.mw",
+    "Markwhen/Markwhen 3-16-2026 09.43.29.mw",
     "Configure Obsidian.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Pratique.md",
     "Art Oratoire/Briller à l'oral/BRILLER À L'ORAL - POUR LES NULS.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
-    "Art Oratoire",
-    "AI/Roadmap/AI Learning Roadmap.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
+    "Général/Briller à l'oral - Historique.md",
+    "Général/BRILLER À L'ORAL - POUR LES NULS.md",
+    "Général/Briller à l'oral - Conseils.md",
+    "Général/Briller à l'oral - Pratique.md",
+    "Général/Briller à l'oral - Être convaincant.md",
+    "Général/Briller à l'oral - Le non verbal.md",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled.md",
+    "Untitled 6.md",
     "Untitled 1.md",
-    "AI/Build a Large Language Model/Untitled.base",
+    "AI/Build a Large Language Model/Working with text data.md",
+    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
+    "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/Untitled.canvas",
-    "AI/Build a Large Language Model",
-    "Excalidraw",
-    "AI/Roadmap/Untitled.base",
-    "AI/Roadmap",
-    "Mathematics/mathmatics-book.pdf",
-    "Mathematics",
-    "AI",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled 1.canvas"
   ]
