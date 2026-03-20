@@ -234,8 +234,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -258,7 +258,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "8c6a5937e88308fd",
+  "active": "9ff7f6bcfcd23336",
   "lastOpenFiles": [
     "Philosophie/Courants/Courants.md",
     "Philosophie/Courants/autre courant.md",
