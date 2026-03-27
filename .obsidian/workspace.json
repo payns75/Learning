@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Courants/Courants.md",
+                "file": "Philosophie/Philosophes/William James.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Courants"
+              "title": "William James"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Courants/Courants.md",
+                "file": "Philosophie/Philosophes/William James.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Courants"
+              "title": "Plan de William James"
             }
           },
           {
@@ -260,14 +260,16 @@
   },
   "active": "8c6a5937e88308fd",
   "lastOpenFiles": [
+    "Philosophie/Philosophes/Philosophes.md",
+    "Philosophie/Philosophes/William James.md",
+    "Philosophie/PLAN D'ÉTUDE.md",
+    "Philosophie/Glossary/Glossary.md",
+    "Configure Obsidian.md",
+    "Philosophie/Courants/Courants.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "Philosophie/Courants/Courants.md",
     "Philosophie/Courants/autre courant.md",
-    "Philosophie/Philosophes/Philosophes.md",
-    "Philosophie/Glossary/Glossary.md",
     "Philosophie/Époques/Époques.md",
-    "Philosophie/PLAN D'ÉTUDE.md",
     "Philosophie/Courants",
     "Philosophie/Époques",
     "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
@@ -278,7 +280,6 @@
     "Markwhen/Markwhen 3-16-2026 09.43.25.mw",
     "Markwhen/Markwhen 3-16-2026 09.43.27.mw",
     "Markwhen/Markwhen 3-16-2026 09.43.29.mw",
-    "Configure Obsidian.md",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Pratique.md",
