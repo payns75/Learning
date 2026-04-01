@@ -2,7 +2,7 @@
 ## TODO d'analyse
 
 - [ ] 21: Sartre - On a la vie qu'on mérite
-- [ ] 69: Sartre - La mauvaise foi
+- [x] 69: Sartre - La mauvaise foi
 - [ ] 75: Sartre - L'amour
 - [x] 85: Sartre - Le regard des autres
 - [x] 119: Sartre - Sommes nous condamné à être libre?
@@ -61,5 +61,34 @@ Autrui me juge en permanence, et en me jugeant il se méprend. On ne pourra jama
 
 ## La mauvaise foi
 
+La mauvaise foi au sens courant, c'est l'attitude qui consiste à nier la réalité, *soutenir une idée, une opinion que l'on sait être fausse parce que la vérité ne nous arrange pas*. La mauvaise foi, contrairement au mensonge, ne vise pas seulement à convaincre l'autre, elle vise aussi à se convaincre soit même. L'individu de mauvaise foi, c'est celui qui tente de se mentir à lui même. Alors que pour le mensonge, la conscience sait qu'elle ment.
 
+==Exemple==: Si quelqu'un que l'on aime pas commet un vol, on va dire tout le mal que l'on en pense, c'est honteux, c'est une crapule... Maintenant si cette personne est une personne que l'on aime, pour laquelle on a de l'estime, il est plus probable que l'on nuance alors nos propos, on va lui chercher des excuses, est-ce qu'il était dans le besoin?, ou le défendre, est-ce qu'on est bien sûr que c'est lui qui a commis ce vol?, est-ce que l'on a des preuve, et puis un vol, ce n'est pas si grave! On ne va pas alors être neutre dans notre jugement. C'est ça la mauvaise foi, *c'est une adaptation de notre discours à nos intérêts.* Je n'ai pas d'intérêt à blâmer quelqu'un pour qui j'ai de l'estime, car alors je vais devoir me justifier intérieurement d'avoir de l'estime pour quelqu'un de condamnable. Alors que quelqu'un que je n'aime pas, j'ai au contraire intérêt à le blâmer, car ça confortera l'opinion que j'ai de cette personne. On appelle ça *le jugement motivé*.
+
+**Le jugement motivé, c'est quand on ne juge pas sur pièce, mais à partir de la conclusion qu'on aura préalablement choisi de défendre**. C'est ça l'épicentre de la mauvaise foi.
+
+La mauvaise foi, c'est trouver des raisons quand on a besoin de raisons, et c'est ne pas trouver de raison, quand on ne veut pas trouver de raisons.
+Dès lors qu'il y a de l'affecte en jeu, le jugement n'est plus neutre, le jugement n'est jamais neutre, il est l'extension de l'affecte.
+
+Comme dit Sénèque: *La raison veut décider ce qui est juste, l'émotion veut qu'on trouve juste ce qu'elle a décidé*.
+
+Beaucoup de gens pensent que la raison peut s'émanciper de l'affecte. Ils diront, 'Si on regarde les choses de manière factuelle'. C'est une absurdité, comment peut-on regarder de manière factuelle. Le regard interprète le fait, un regard, ça suppose un angle sous lequel on regarde. C'est cette croyance dans la neutralité de nos jugements qui conduit à ce que l'on appelle en psychologie, *la dissonance cognitive*. La dissonance cognitive, c'est une contradiction entre les fait et notre système de croyances. On réécrit l'histoire pour faire coïncider la réalité avec nos intérêts.
+
+On n'est pas de mauvaise foi par plaisir, on est de mauvaise foi par stratégie de survie. Il ne faut pas sous estimé l'importance de l'image de soi, *l'importance de l'image de soi auprès de soi*. On donne au jugement d'autrui la valeur que ce jugement a pour nous. La mauvaise foi, c'est de maintenir notre image de soi auprès de nous-mêmes.
+
+Ce que nous dit Sartre c'est que, *nous avons besoin d'une représentation de nous même*, nous avons besoin d'une identité par laquelle nous définir. En ce sens, nous sommes tous des essentialistes qui s'ignorent. Nous nous donnons une essence, nous nous définissons une essence, et cette essence devient notre raison d'être. Peut importe si cette essence ne correspond pas à la réalité, ce qui compte, c'est de s'identifier à cette essence. *La mauvaise fois, ce n'est pas tant la peur d'avoir tort, mais c'est la peut de ne plus savoir qui on est*. Ce que l'on redoute, c'est l'anéantissement du moi.
+
+On a souvent tendance à vouloir se donner une essence, à vouloir être essentialiste. Ce que dit Sartre c'est, qu'en se donnant une essence, on se comporte comme si on était une simple chose. L'existentialisme de Sartre s'oppose à l'essentialisme.
+
+L'existentialisme s'oppose aussi au déterminisme. Le déterminisme défini que nous ne sommes pas libre *car nous sommes soumis à une combinaison de causes et d'effets auxquels nous ne pouvons nous soustraire*. Je suis comme ça car mon environnement m'a rendu comme ça. La mauvaise foi, c'est la fuite vis-à-vis de ce que nous sommes, à savoir des êtres libres, des êtres capables de ne pas se soumettre passivement au déterminisme. On peut rendre responsable le déterminisme à ce qui nous arrive, mais on ne peut pas rendre responsable le déterminisme à la manière ou on réagit à ce qui arrive.
+**L'important ce n'est pas ce que l'on a fait de nous, mais ce qu'on fait de ce qu'on a fait de nous.**
+
+Si on trouve absurde de tenir une truie de responsable de ses actes, on devrait trouver tout aussi absurde de ne pas tenir l'être humain responsable de ces actes. Pour Sartre, *c'est parce que l'être humain est doté d'une conscience, qu'il est responsable de ces actes*.
+
+La mauvaise foi, s'est transformer l'être humain en chose et l'existence en subsistance.
+
+> Il s'ensuit d'abord que celui à qui l'on ment et celui qui ment sont une seule et même personne, ce qui signifie que je dois savoir en tant que trompeur la vérité qui m'est masquée en tant que je suis trompé. Mieux encore je dois savoir très précisément cette vérité pour me la cacher plus soigneusement - et ceci non pas à deux moments différents de la temporalité - ce qui me permettrait à la rigueur de rétablir un semblant de dualité - mais dans la structure unitaire d'un même projet. Comment donc le mensonge peut-il subsister si la dualité qui le conditionne est supprimée? À cette difficulté s'en ajoute une autre qui dérive de la totale translucidité de la conscience. Celui qui s'affecte de mauvaise foi doit avoir conscience de sa mauvaise foi puisque l'être de la conscience est conscience d'être. Il semble donc que je doive être de bonne foi au moins en ceci que je suis conscient de ma mauvaise foi. Mais alors tout ce système psychique s'anéantit. On conviendra, en effet, que si j'essaie délibérément et cyniquement de me mentir, j'échoue complètement dans cette entreprise, le mensonge recule et s'effondre sous le regard; il est ruiné, par-derrière, par la conscience même de me mentir qui se constitue impitoyablement en deçà de mon projet comme sa condition même. Il y a là un phénomène évanescent, qui n'existe que dans et par sa propre distinction. Certes, ces phénomènes sont fréquents et nous verrons qu'il y a en effet une "évanescence" de la mauvaise foi, il est évident qu'elle oscille perpétuellement entre la bonne foi et le cynisme. Toutefois, si l'existence de la mauvaise foi est fort précaire, si elle appartient à ce genre de structures psychiques, qu'on pourrait appeler "métastables", elle n'en présente pas moins une forme autonome et durable; elle peut même être l'aspect normal de la vie pour un très grand nombre de personnes. On peut vivre dans la mauvaise foi, ce qui ne veut pas dire qu'on n'ait de brusques réveils de cynisme ou de bonne foi, mais ce qui implique un style de vie constant et particulier. Notre embarras semble donc extrême puisque nous ne pouvons ni rejeter ni comprendre la mauvaise foi.
+> Jean-Paul Sartre
+
+*La mauvaise foi de Sartre, c'est le réflexe par lequel l'homme passif revendique sa passivité pour ne pas avoir à assumer sa responsabilité.*
 
