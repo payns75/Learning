@@ -92,3 +92,8 @@ La mauvaise foi, s'est transformer l'être humain en chose et l'existence en sub
 
 *La mauvaise foi de Sartre, c'est le réflexe par lequel l'homme passif revendique sa passivité pour ne pas avoir à assumer sa responsabilité.*
 
+## On a la vie qu'on mérite
+
+Basé sur le live de Sartre - Baudelaire. L'existentialisme appliqué à un cas concret.
+
+Les gens qui n'assument pas leur liberté sont des lâches pour Sartre. Le lâche étant celui qui fait preuve de ce que Sartre appel la mauvaise foi.
