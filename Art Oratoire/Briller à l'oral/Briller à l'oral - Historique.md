@@ -4,10 +4,10 @@ Auteur: Charles Haroche
 Date: 2026-01-05
 
 ---
-
+B
 # La naissance
 -465, le **roi Thrasybule**, à Syracuse fut renversé par le peuple qui voulu alors récupérer ses terres après l'instauration d'une démocratie. Comment convaincre un jury que l'on est en droit de réclamer justice?
-Arrive alors **Corax de Syracuse**, considéré alors comme l'un des précurseurs de la rhétorique. Conseillers du **roi Hiéron, frère de Thrasybule**, il n'était pas très populaire mais réussi à convaincre le peuple en colère qu'il ne devait pas être puni pour ses activités passés.
+Arrive alors **Corax de Syra0c h9use**, considéré alors comme l'un des précurseurs de la rhétorique. Conseillers du **roi Hiéron, frère de Thrasybule**, il n'était pas très populaire mais réussi à convaincre le peuple en colère qu'il ne devait pas être puni pour ses activités passés.
 **Corax** consacra ses enseignements dans un traité de rhétorique qui constitua l'un des premiers documents écrit sur l'éloquence. Il donna aussi son nom à l'une des plus anciennes technique argumentatives au monde:
 
 > L'argument de **Corax** consiste à retourner une affirmation formulée par un adversaire au motif que celle-ci serait trop *évidente* et par conséquent nécessairement *fausse*.
