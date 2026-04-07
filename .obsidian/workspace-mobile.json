@@ -52,22 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jiu Jitsu - Blanche, Jaune, Orange"
-            }
-          },
-          {
-            "id": "7fa82153cf8da0f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+                "file": "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -105,7 +90,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Jaune",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -219,14 +204,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7fa82153cf8da0f1",
+  "active": "38a1bf6d8e36fa86",
   "lastOpenFiles": [
-    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
-    "Sans titre.canvas",
-    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
-    "Divers/Jiujitsu",
     "Philosophie/Philosophes/Sartre.md",
+    "Sans titre.canvas",
+    "Philosophie/Époques/Époques.md",
+    "Philosophie/Époques",
     "Philosophie/PLAN D'ÉTUDE.md",
+    "Philosophie/Philosophes/William James.md",
+    "Philosophie/Philosophes/Rousseau.md",
+    "Philosophie/Philosophes/Nietzsche.md",
+    "Philosophie/Glossary/Glossaire.md",
+    "Philosophie/Courants/Le rationalisme.md",
+    "Philosophie/Courants/Le déterminisme.md",
+    "Philosophie/Courants/L'existentialisme.md",
+    "Philosophie/Courants/L'essentialisme.md",
+    "Philosophie/Courants/L'empirisme.md",
+    "Philosophie/Philosophes",
+    "Philosophie/Glossary",
+    "Philosophie/Courants",
+    "Philosophie",
+    "Divers/Jiu Jitsu.md",
+    "Divers",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Pratique.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
+    "Art Oratoire/Briller à l'oral/BRILLER À L'ORAL - POUR LES NULS.md",
+    "Art Oratoire/Briller à l'oral",
+    "Art Oratoire",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Roadmap/Ai Learning Plan.md",
     "Général/Briller à l'oral - Historique.md",
