@@ -90,7 +90,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Jaune",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "Rechercher"
         }
       },
       {
@@ -113,7 +113,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "Tags"
+          "title": "Mots-clés"
         }
       },
       {
@@ -127,7 +127,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "47744dc0639ec909",
@@ -170,12 +170,13 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Outline"
+          "title": "Plan"
         }
       },
       {
@@ -189,7 +190,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +200,11 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "38a1bf6d8e36fa86",
+  "active": "f8b9a030db20eba3",
   "lastOpenFiles": [
     "Sans titre.canvas",
     "Philosophie/Époques/Époques.md",
