@@ -50,10 +50,15 @@
             "id": "38a1bf6d8e36fa86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/Philosophes/Sartre.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Sartre"
             }
           }
         ],
@@ -199,6 +204,34 @@
   },
   "active": "38a1bf6d8e36fa86",
   "lastOpenFiles": [
+    "Sans titre.canvas",
+    "Philosophie/Époques/Époques.md",
+    "Philosophie/Époques",
+    "Philosophie/PLAN D'ÉTUDE.md",
+    "Philosophie/Philosophes/William James.md",
+    "Philosophie/Philosophes/Sartre.md",
+    "Philosophie/Philosophes/Rousseau.md",
+    "Philosophie/Philosophes/Nietzsche.md",
+    "Philosophie/Glossary/Glossaire.md",
+    "Philosophie/Courants/Le rationalisme.md",
+    "Philosophie/Courants/Le déterminisme.md",
+    "Philosophie/Courants/L'existentialisme.md",
+    "Philosophie/Courants/L'essentialisme.md",
+    "Philosophie/Courants/L'empirisme.md",
+    "Philosophie/Philosophes",
+    "Philosophie/Glossary",
+    "Philosophie/Courants",
+    "Philosophie",
+    "Divers/Jiu Jitsu.md",
+    "Divers",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Pratique.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
+    "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
+    "Art Oratoire/Briller à l'oral/BRILLER À L'ORAL - POUR LES NULS.md",
+    "Art Oratoire/Briller à l'oral",
+    "Art Oratoire",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Roadmap/Ai Learning Plan.md",
     "Général/Briller à l'oral - Historique.md",
@@ -206,17 +239,6 @@
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Roadmap/Mathematics road map.md",
-    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
-    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
-    "Untitled.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "AI/Build a Large Language Model/Working with text data.md",
-    "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
-    "AI/Build a Large Language Model",
-    "_Templates/Note Template.md",
-    "AI/Roadmap/🧠 AI Learning Roadmap.md"
+    "AI/Build a Large Language Model"
   ]
 }
