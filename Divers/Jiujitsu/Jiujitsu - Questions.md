@@ -1,0 +1,4 @@
+- Kote Gaeshi: renversement par flexion du poignet #Blanche 
+- Mawashi Tsuki et Crochet, c'est la même chose?
+- Hiji Kansetsu: clé de coude par hyper extension du bras #Jaune 
+- Nigiri Geashi: dégagement sur saisie à deux main du poignet #Orange 

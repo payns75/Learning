@@ -54,7 +54,7 @@
 2. Sentir et anticiper la rotation
 3. Contre-rotation du bassin
 4. Renversement par inversion du mouvement
-### Kansetsu Waza	
+### Kansetsu Waza / Contrôle
 #### Waki Gatame
 *Contrôle du coude (aisselle)* #Verte 
 1. Saisir le bras de Uke
@@ -149,7 +149,7 @@ Vise à briser la stabilité.
 2. Passer les bras sous ses bras pour saisir sa ceinture
 3. Plaquer la poitrine sur le visage/buste de Uke
 4. Écarter les jambes et baisser les hanches
-### Hojo Undo
+### Hojo Undo / Éducatif
 #### Shinogi Double
 *Double canalisation successive* #Verte 
 1. Première canalisation: diriger l'attaque sur le côté
