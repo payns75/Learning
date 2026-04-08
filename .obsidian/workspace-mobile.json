@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Jiujitsu/Jiujitsu - Lexique.md",
+                "file": "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -43,7 +43,8 @@
               "title": "Jiujitsu - Lexique"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Divers/Jiujitsu/Jiujitsu - Lexique.md",
+            "file": "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -192,6 +193,10 @@
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Divers/Jiujitsu/Jiujitsu - Questions.md",
     "Philosophie/Philosophes/Sartre.md",
+    "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/Jiujitsu",
     "Sans titre.canvas",
     "Philosophie/Époques/Époques.md",
     "Philosophie/Époques",
@@ -222,6 +227,7 @@
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Roadmap/Ai Learning Plan.md",
     "Général/Briller à l'oral - Historique.md",
+    "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model"
   ]
