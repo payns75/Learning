@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
+                "file": "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+            "file": "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,6 +207,10 @@
   "active": "38a1bf6d8e36fa86",
   "lastOpenFiles": [
     "Philosophie/Philosophes/Sartre.md",
+    "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/Jiujitsu",
     "Sans titre.canvas",
     "Philosophie/Époques/Époques.md",
     "Philosophie/Époques",
@@ -238,20 +242,7 @@
     "AI/Roadmap/Ai Learning Plan.md",
     "Général/Briller à l'oral - Historique.md",
     "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
-    "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Roadmap/Mathematics road map.md",
-    "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
-    "AI/Build a Large Language Model/Implementing a GPT model from scratch to generate text.md",
-    "Untitled.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "AI/Build a Large Language Model/Working with text data.md",
-    "AI/Build a Large Language Model/Fine-tuning for classification.md",
-    "AI/Build a Large Language Model/Fine tuning to follow instructions.md",
-    "AI/Build a Large Language Model",
-    "_Templates/Note Template.md",
-    "AI/Roadmap/🧠 AI Learning Roadmap.md"
+    "AI/Build a Large Language Model"
   ]
 }
