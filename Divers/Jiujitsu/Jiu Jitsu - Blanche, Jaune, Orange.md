@@ -113,7 +113,7 @@ Absorber et rediriger l'énergie
 3. Extension du pied vers l'arrière
 4. Revenir à position de base
 ### Te Hodogi / Saisie
-#### Jyunte Dori
+#### Junte Dori
 *Saisie directe du poignet* #Blanche 
 1. Saisir le poignet extérieur (doigts face à l'intérieur)
 2. Poignet fléchi légèrement vers le haut

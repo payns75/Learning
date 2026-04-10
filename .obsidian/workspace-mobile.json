@@ -61,8 +61,7 @@
               "title": "Jiujitsu - Lexique"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
+            "file": "Divers/Jiujitsu/Jiujitsu - Lexique.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
