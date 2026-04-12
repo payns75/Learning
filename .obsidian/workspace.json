@@ -4,71 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ff5233c16732c6",
+        "id": "fdb5bd95d575eb39",
         "type": "tabs",
         "children": [
           {
-            "id": "7250084ef02d154e",
+            "id": "33c8583bced95a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Philosophes/Sartre.md",
+                "file": "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sartre"
+              "title": "Jiu Jitsu - Verte et Bleue"
             }
           },
           {
-            "id": "c5bf7674d84d6370",
+            "id": "c95cadbdeb997e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Courants/L'existentialisme.md",
+                "file": "Divers/Japonais/Hiragana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "L'existentialisme"
+              "title": "Hiragana"
             }
           },
           {
-            "id": "619f7ef1da07b1e8",
+            "id": "f8312d6482afe195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Époques/Époques.md",
+                "file": "Divers/Japonais/2. Grammaire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Époques"
-            }
-          },
-          {
-            "id": "8c6a5937e88308fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Philosophes/Nietzsche.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nietzsche"
+              "title": "2. Grammaire"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#jiujitsu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 400.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -180,7 +165,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -189,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Philosophes/Nietzsche.md",
-                "followCursor": true,
+                "file": "Divers/Japonais/2. Grammaire.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Nietzsche"
+              "title": "Plan de 2. Grammaire"
             }
           },
           {
@@ -209,11 +194,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 345.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -230,45 +215,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8c6a5937e88308fd",
+  "active": "f8312d6482afe195",
   "lastOpenFiles": [
+    "Divers/Japonais/1. La prononciation.md",
+    "Divers/Japonais/Katakana.md",
+    "Divers/Japonais/Hiragana.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
+    "Divers/Jiujitsu/Jiujitsu - Questions.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Configure Obsidian.md",
+    "Divers/Japonais/2. Grammaire.md",
+    "Divers/Japonais/Les formes verbales japonaises.md",
+    "Philosophie/Philosophes/Nietzsche.md",
+    "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
+    "Divers/Jiujitsu/Sans titre.canvas",
+    "Divers/Jiujitsu/Jiujitsu - Lexique du Dojo.md",
+    "Philosophie/Philosophes/Sartre.md",
+    "Philosophie/Époques/Époques.md",
+    "Philosophie/Philosophes/William James.md",
+    "Divers/Japonais",
+    "Divers/Jiujitsu",
     "Divers/Jiu Jitsu.md",
     "Philosophie/Philosophes/Rousseau.md",
     "Markwhen/Markwhen 4-2-2026 20.31.36.mw",
-    "Philosophie/Philosophes/Nietzsche.md",
     "Markwhen",
-    "Sans titre.canvas",
-    "Philosophie/Philosophes/Sartre.md",
     "Divers",
     "Philosophie/Courants/Le déterminisme.md",
     "Philosophie/Courants/L'essentialisme.md",
     "Philosophie/Courants/Le rationalisme.md",
     "Philosophie/Glossary/Glossaire.md",
     "Philosophie/Courants/L'empirisme.md",
-    "Philosophie/Philosophes/William James.md",
     "Philosophie/Courants/L'existentialisme.md",
     "Philosophie/PLAN D'ÉTUDE.md",
-    "Philosophie/Époques/Époques.md",
     "Philosophie/Philosophes/Philosophes.md",
-    "Configure Obsidian.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "Philosophie/Courants/autre courant.md",
     "Philosophie/Courants",
     "Philosophie/Époques",
     "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
     "Philosophie/Philosophes",
     "Philosophie/Glossary",
-    "Markwhen/Markwhen 3-16-2026 10.40.14.mw",
-    "Markwhen/Markwhen 3-16-2026 09.43.25.mw",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Pratique.md",
-    "Art Oratoire/Briller à l'oral/BRILLER À L'ORAL - POUR LES NULS.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
-    "Général/Briller à l'oral - Historique.md",
-    "Général/BRILLER À L'ORAL - POUR LES NULS.md",
     "AI/Roadmap/Untitled.canvas",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled 1.canvas"
