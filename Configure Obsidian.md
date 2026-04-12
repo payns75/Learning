@@ -82,17 +82,39 @@ Then sync with GitHub repository by clicking on the git icon on the left side of
 
 ``` bash
 	  python -m install notebook
-	  ```
+```
 
 ##### Jupytext
 
 ``` bash
 	  python -m install jupytext
-	  ```
+```
 
 ##### Matplotlib
 
 ``` bash
 	  python -m install matplotlib
-	  ```
+```
 	  
+
+**Les 13 callouts natifs**
+
+Obsidian supporte ces types de callouts, chacun avec une icône et une couleur unique : [Allmarkdowntools](https://allmarkdowntools.com/obsidian-markdown)
+
+|Type|Couleur|Usage suggéré|
+|---|---|---|
+|`[!note]`|Gris|Remarque générale|
+|`[!abstract]`|Bleu clair|Résumé|
+|`[!info]`|Bleu|Information neutre|
+|`[!todo]`|Bleu|Liste de tâches|
+|`[!tip]`|Vert|Conseil, astuce|
+|`[!success]`|Vert vif|Résultat correct|
+|`[!question]`|Jaune-vert|Question, FAQ|
+|`[!warning]`|Orange|Attention, exception|
+|`[!failure]`|Rouge clair|Erreur courante|
+|`[!danger]`|Rouge|Règle absolue|
+|`[!bug]`|Rouge-rose|Anomalie, irrégulier|
+|`[!example]`|Violet|Exemple concret|
+|`[!quote]`|Gris|Citation|
+
+Certains ont aussi des alias — `[!faq]` fonctionne comme `[!question]`, `[!caution]` comme `[!warning]`, `[!hint]` comme `[!tip]`.

@@ -1,6 +1,6 @@
-- Kote Gaeshi: renversement par flexion du poignet #Blanche 
+- Kote Gaeshi: renversement par flexion du poignet #jiujitsu/Blanche 
 - Mawashi Tsuki et Crochet, c'est la même chose?
 - différence entre age tsuki et uppercut?
 - différence entre swing et crochet?
-- Hiji Kansetsu: clé de coude par hyper extension du bras #Jaune 
-- Nigiri Geashi: dégagement sur saisie à deux main du poignet #Orange 
+- Hiji Kansetsu: clé de coude par hyper extension du bras #jiujitsu/Jaune 
+- Nigiri Geashi: dégagement sur saisie à deux main du poignet #jiujitsu/Orange 
