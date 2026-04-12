@@ -1,5 +1,5 @@
 
-## TODO d'analyse
+### TODO d'analyse
 
 - [ ] 21: Sartre - On a la vie qu'on mérite
 - [x] 69: Sartre - La mauvaise foi
@@ -10,7 +10,7 @@
 - [ ] Wikipédia Oeuvre
 - [ ] Livres
 
----
+----
 ## Sommes nous condamné à être libre?
 
 Pour Sartre, Dieu n'existe pas. C'est une philosophie athée. 
