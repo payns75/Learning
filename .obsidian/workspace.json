@@ -4,67 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "43b0d8130c90fdd0",
+        "id": "fdb5bd95d575eb39",
         "type": "tabs",
         "children": [
           {
-            "id": "d6e6b7d07c965a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jiujitsu - Lexique de combat"
-            }
-          }
-        ]
-      },
-      {
-        "id": "878018d3df3f234a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6cc93bc277327340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jiu Jitsu - Blanche, Jaune, Orange"
-            }
-          }
-        ]
-      },
-      {
-        "id": "404c36c06bf4b09e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c423c06c1a28c05b",
+            "id": "33c8583bced95a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Jiu Jitsu - Verte et Bleue"
             }
+          },
+          {
+            "id": "c95cadbdeb997e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divers/Japonais/Hiragana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hiragana"
+            }
+          },
+          {
+            "id": "f8312d6482afe195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divers/Japonais/2. Grammaire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Grammaire"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#jiujitsu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 400.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -176,7 +165,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -186,7 +175,7 @@
               "type": "outline",
               "state": {
                 "file": "Divers/Japonais/2. Grammaire.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -205,11 +194,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 345.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -226,21 +215,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6cc93bc277327340",
+  "active": "f8312d6482afe195",
   "lastOpenFiles": [
-    "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
-    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
-    "Divers/Jiujitsu/Sans titre.canvas",
+    "Divers/Japonais/1. La prononciation.md",
+    "Divers/Japonais/Katakana.md",
+    "Divers/Japonais/Hiragana.md",
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
-    "Divers/Jiujitsu/Jiujitsu - Lexique du Dojo.md",
+    "Divers/Jiujitsu/Jiujitsu - Questions.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Configure Obsidian.md",
+    "Divers/Japonais/2. Grammaire.md",
+    "Divers/Japonais/Les formes verbales japonaises.md",
     "Philosophie/Philosophes/Nietzsche.md",
+    "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
+    "Divers/Jiujitsu/Sans titre.canvas",
+    "Divers/Jiujitsu/Jiujitsu - Lexique du Dojo.md",
     "Philosophie/Philosophes/Sartre.md",
     "Philosophie/Époques/Époques.md",
     "Philosophie/Philosophes/William James.md",
-    "Divers/Japonais/2. Grammaire.md",
-    "Divers/Japonais/1. La prononciation.md",
     "Divers/Japonais",
-    "Divers/Jiujitsu/Jiujitsu - Questions.md",
     "Divers/Jiujitsu",
     "Divers/Jiu Jitsu.md",
     "Philosophie/Philosophes/Rousseau.md",
@@ -255,16 +248,13 @@
     "Philosophie/Courants/L'existentialisme.md",
     "Philosophie/PLAN D'ÉTUDE.md",
     "Philosophie/Philosophes/Philosophes.md",
-    "Configure Obsidian.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "Philosophie/Courants/autre courant.md",
     "Philosophie/Courants",
     "Philosophie/Époques",
     "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
     "Philosophie/Philosophes",
     "Philosophie/Glossary",
-    "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
     "AI/Roadmap/Untitled.canvas",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled 1.canvas"
