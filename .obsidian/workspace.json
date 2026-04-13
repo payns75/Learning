@@ -4,86 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ff5233c16732c6",
+        "id": "d7a52993da3017b0",
         "type": "tabs",
         "children": [
           {
-            "id": "7250084ef02d154e",
+            "id": "73421df10f335dae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PLAN D'ÉTUDE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PLAN D'ÉTUDE"
-            }
-          },
-          {
-            "id": "c5bf7674d84d6370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Courants/Courants.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Courants"
-            }
-          },
-          {
-            "id": "619f7ef1da07b1e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Époques/Époques.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Époques"
-            }
-          },
-          {
-            "id": "9a50e8026b5339a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Glossary/Glossary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "67b26c7388a3cb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Philosophes/Philosophes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Philosophes"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -140,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 447.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -204,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Philosophes/Philosophes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Philosophes"
+              "title": "Plan"
             }
           },
           {
@@ -232,19 +165,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "github-sync:Sync with Remote": false,
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "f48cdf1c3ba1a605",
+  "active": "73421df10f335dae",
   "lastOpenFiles": [
+    "AI/Build a Large Language Model/Coding attention mechanism.md",
+    "AI/Build a Large Language Model/Working with text data.md",
     "Philosophie/Glossary/Glossary.md",
     "Philosophie/Philosophes/Philosophes.md",
     "Philosophie/Époques/Époques.md",
@@ -275,11 +210,9 @@
     "Général/Briller à l'oral - Le non verbal.md",
     "AI/Build a Large Language Model/BUILD A LARGE LANGUAGE MODEL - FROM SCRATCH.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
     "Untitled 5.md",
     "Untitled 6.md",
     "Untitled 1.md",
-    "AI/Build a Large Language Model/Working with text data.md",
     "AI/Build a Large Language Model/Pretraining on unlabeled data.md",
     "AI/Roadmap/ARTIFICIAL INTELLIGENCE.md",
     "AI/Roadmap/Untitled.canvas",
