@@ -52,13 +52,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/2. Grammaire.md",
+                "file": "Philosophie/Philosophes/Nietzsche.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. Grammaire"
+              "title": "Nietzsche"
             }
           }
         ],
@@ -206,12 +206,13 @@
   },
   "active": "38a1bf6d8e36fa86",
   "lastOpenFiles": [
+    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
     "Divers/Jiujitsu/Jiujitsu - Lexique.md",
     "Divers/Jiujitsu/Jiujitsu - Questions.md",
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Philosophie/Philosophes/Sartre.md",
     "Divers/Jiu Jitsu - Blanche, Jaune, Orange.md",
-    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Divers/Jiujitsu",
     "Sans titre.canvas",
     "Philosophie/Époques/Époques.md",
@@ -237,11 +238,8 @@
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Le non verbal.md",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Historique.md",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Conseils.md",
-    "Art Oratoire/Briller à l'oral/BRILLER À L'ORAL - POUR LES NULS.md",
     "Art Oratoire/Briller à l'oral",
     "Art Oratoire",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
-    "AI/Roadmap/Ai Learning Plan.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Build a Large Language Model"
   ]
