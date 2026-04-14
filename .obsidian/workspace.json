@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Divers/JiveClub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hiragana"
+              "title": "JiveClub"
             }
           }
         ],
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Divers/JiveClub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Hiragana"
+              "title": "Plan de JiveClub"
             }
           },
           {
@@ -216,13 +216,13 @@
   },
   "active": "f8312d6482afe195",
   "lastOpenFiles": [
+    "Configure Obsidian.md",
     "Divers/JiveClub.md",
+    "Divers/Japonais/Hiragana.md",
     "Journaling/2025-11-08.md",
     "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Traduction de phrases.md",
-    "Configure Obsidian.md",
     "Divers/Japonais/Exercices",
-    "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/1. La prononciation.md",
     "Divers/Japonais/Katakana.md",
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
