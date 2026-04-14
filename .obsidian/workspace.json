@@ -43,54 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/2. Grammaire.md",
+                "file": "Divers/JiveClub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. Grammaire"
+              "title": "JiveClub"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "c759c63b4291e664",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "43ea973795528eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Japonais/2. Grammaire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Grammaire"
-            }
-          },
-          {
-            "id": "c42600343cacd83d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Japonais/Traduction de phrases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Traduction de phrases"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/Japonais/2. Grammaire.md",
+                "file": "Divers/JiveClub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2. Grammaire"
+              "title": "Plan de JiveClub"
             }
           },
           {
@@ -253,8 +216,10 @@
   },
   "active": "f8312d6482afe195",
   "lastOpenFiles": [
-    "Divers/Japonais/Traduction de phrases.md",
     "Divers/Japonais/2. Grammaire.md",
+    "Divers/Japonais/Traduction de phrases.md",
+    "Divers/JiveClub.md",
+    "Configure Obsidian.md",
     "Divers/Japonais/Exercices",
     "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/1. La prononciation.md",
@@ -262,7 +227,6 @@
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Divers/Jiujitsu/Jiujitsu - Questions.md",
     "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
-    "Configure Obsidian.md",
     "Divers/Japonais/Les formes verbales japonaises.md",
     "Philosophie/Philosophes/Nietzsche.md",
     "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
@@ -285,7 +249,6 @@
     "Philosophie/Courants/L'empirisme.md",
     "Philosophie/Courants/L'existentialisme.md",
     "Philosophie/PLAN D'ÉTUDE.md",
-    "Philosophie/Philosophes/Philosophes.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "Philosophie/Courants",
     "Philosophie/Époques",
