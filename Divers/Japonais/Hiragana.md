@@ -123,3 +123,55 @@
 | す _su_  | すし _sushi_     | sushi — facile à retenir 😄          |
 | せ _se_  | せんせい _sensei_  | professeur — tu le connais du dojo ! |
 | そ _so_  | そら _sora_      | ciel                                 |
+
+## Exceptions orthographiques historiques
+
+> [!note] Pourquoi ces exceptions ?
+> Le japonais a conservé certaines orthographes anciennes même si la prononciation a évolué.
+> Ces cas sont figés et doivent simplement être mémorisés.
+
+### Le wa écrit は
+
+La particule **wa** (thème) et certaines formules de salutation s'écrivent は (*ha*) et non わ.
+
+| Mot | Écriture | Prononciation |
+|---|---|---|
+| Bonjour | こんにちは | *konnichiwa* |
+| Bonsoir | こんばんは | *konbanwa* |
+| Particule de thème | は | *wa* |
+
+### Le e écrit へ
+
+La particule de direction **e** s'écrit へ (*he*) et non え.
+
+| Mot | Écriture | Prononciation |
+|---|---|---|
+| Particule de direction | へ | *e* |
+| Tokyo (vers) | とうきょうへ | *Tōkyō e* |
+
+### Le o écrit を
+
+La particule d'objet direct **wo** s'écrit を et se prononce simplement *o* en japonais moderne.
+
+| Mot | Écriture | Prononciation |
+|---|---|---|
+| Particule d'objet direct | を | *o* (et non *wo*) |
+
+### Les voyelles longues
+
+En hiragana, certaines voyelles longues s'écrivent différemment de ce qu'on attendrait :
+
+| Son | Écriture attendue | Écriture réelle | Exemple |
+|---|---|---|---|
+| *ō* long | おお | **おう** | とうきょう *Tōkyō* |
+| *ē* long | ええ | **えい** | せんせい *sensei* |
+
+> [!warning] Exception à l'exception
+> Le son *ō* s'écrit parfois vraiment おお — ex. おおきい *ookii* (grand).
+> C'est le contexte et la mémorisation mot par mot qui tranchent.
+
+> [!tip] À retenir en priorité
+> Les trois particules sont les plus importantes car tu les utiliseras constamment :
+> - は → *wa* (thème)
+> - へ → *e* (direction)
+> - を → *o* (objet direct)
