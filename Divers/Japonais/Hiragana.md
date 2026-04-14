@@ -111,3 +111,15 @@
 > わ か よ た れ そ / つ ね な ら む
 > う ゐ の お く や ま / け ふ こ え て
 > あ さ き ゆ め み し / ゑ ひ も せ す
+
+## Mots clés par ligne
+
+### Ligne S
+
+| Syllabe | Mot            | Sens                                 |
+| ------- | -------------- | ------------------------------------ |
+| さ _sa_  | さくら _sakura_   | cerisier — tu connais sûrement !     |
+| し _shi_ | しんぶん _shinbun_ | journal                              |
+| す _su_  | すし _sushi_     | sushi — facile à retenir 😄          |
+| せ _se_  | せんせい _sensei_  | professeur — tu le connais du dojo ! |
+| そ _so_  | そら _sora_      | ciel                                 |
