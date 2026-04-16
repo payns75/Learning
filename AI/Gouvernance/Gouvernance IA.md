@@ -8,7 +8,7 @@
 #### Agents
 Il existe deux types de déclencheurs pour les agents.
 - Le déclencheur **temporel ou événementiel**: Se déclenche à une cadence ou un instant déterminé. Orchestration type Zena.
-- Le **déclencheur par API ou WebHook** : Un client remplit un formulaire sur un site web, ce qui envoie immédiatement une requête à l'agent pour traiter la demande.
+- Le **déclencheur par API ou WebHook** : Un client remplit un formulaire sur un site web, ce qui envoie immédiatement une requête à l'agent pour traiter la demande. Développement d'un MCP au niveau de Zena?
 
 > [!NOTE]
 > On retrouve parfois le terme déclencheur par "Polling" (Surveillance active), il s'agit en fait d'un agent qui va par exemple surveiller une boîte mail toutes les 30 secondes.
