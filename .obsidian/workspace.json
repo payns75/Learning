@@ -4,56 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "fdb5bd95d575eb39",
+        "id": "4413ebbe64607a55",
         "type": "tabs",
         "children": [
           {
-            "id": "33c8583bced95a61",
+            "id": "e04b9000e7c3e6d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jiu Jitsu - Verte et Bleue"
-            }
-          },
-          {
-            "id": "c95cadbdeb997e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Divers/Japonais/Exercices/Traduction de phrases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hiragana"
+              "title": "Traduction de phrases"
             }
           },
           {
-            "id": "f8312d6482afe195",
+            "id": "6b4f5f4ef1aa5256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/JiveClub.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JiveClub"
+              "title": "Duo Lingo"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 339.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -174,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/JiveClub.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de JiveClub"
+              "title": "Plan de Duo Lingo"
             }
           },
           {
@@ -214,20 +199,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8312d6482afe195",
+  "active": "6b4f5f4ef1aa5256",
   "lastOpenFiles": [
-    "Configure Obsidian.md",
-    "Divers/JiveClub.md",
+    "Divers/Japonais/Exercices/Traduction de phrases.md",
+    "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/Katakana.md",
     "Divers/Japonais/Hiragana.md",
+    "AI/Gouvernance/Réflexion sur l'IA.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/JiveClub.md",
+    "AI/Gouvernance",
+    "Configure Obsidian.md",
     "Journaling/2025-11-08.md",
     "Divers/Japonais/2. Grammaire.md",
-    "Divers/Japonais/Traduction de phrases.md",
     "Divers/Japonais/Exercices",
     "Divers/Japonais/1. La prononciation.md",
-    "Divers/Japonais/Katakana.md",
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Divers/Jiujitsu/Jiujitsu - Questions.md",
-    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
     "Divers/Japonais/Les formes verbales japonaises.md",
     "Philosophie/Philosophes/Nietzsche.md",
     "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
@@ -247,13 +235,10 @@
     "Philosophie/Courants/L'essentialisme.md",
     "Philosophie/Courants/Le rationalisme.md",
     "Philosophie/Glossary/Glossaire.md",
-    "Philosophie/Courants/L'empirisme.md",
-    "Philosophie/Courants/L'existentialisme.md",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "Philosophie/Courants",
     "Philosophie/Époques",
     "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
-    "Philosophie/Philosophes",
     "AI/Roadmap/Untitled.canvas",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled 1.canvas"
