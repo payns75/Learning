@@ -1,0 +1,1 @@
+Considère que la raison est la source principale de la connaissance, au détriment de l'expérience sensorielle. Il soutient que l'esprit humain possède des connaissances à *prori* (innées) ou accède à la vérité par la déduction logique, notamment via les mathématiques.

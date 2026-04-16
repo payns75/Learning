@@ -1,0 +1,148 @@
+# Références
+
+- Youtube, "Le précepteur" : [Liste de lecture](https://www.youtube.com/watch?v=PBIRcLeaDCM&list=PLpMaQhYcSrf9aCxk573AY_IO-zINw7P8p)
+- Wikipedia
+- Le grand livre des philosophes
+- La philosophie pour les nuls
+
+# Priorités
+
+- [ ] Socrate, Platon, Aristote
+- [ ] Nietzsche
+- [ ] Spinoza
+- [ ] Sartre
+- [ ] Shopenhauer
+- [ ] Hume
+
+# Liste de lecture
+
+- 1. Platon - Le problème de la démocratie
+- 2. Spinoza - Peut-on échapper au déterminisme
+- 3. Hume - Jugements de fait et jugement de valeur
+- 4. Bourdieu - Langage et pouvoir
+- 5. Les psychédéliques - La chimie de la pleine conscience?
+- 6. Ayn Rand - L'égoïsme est une vertu
+- 7. Freud - Les lapsus
+- 8. 5 phrases intelligentes pas si intelligente que ça!
+- 9. Aristophanes - Le mythe des Androgynes
+- 10. Ionesco - Toutes les idéologies sont des maladies
+- 11. Nietzsche - L'éternel retour
+- 12. Le stoïcisme - N'ayez aucune attente
+- 13. Ce livre de philosophie va vous étonner
+- 14. L'île de la tentation - Comprendre l'infidélité
+- 15. Intelligence artificielle - Deux dangers dont on ne parle pas
+- 16. Intelligence artificielle - L'affaire "Hypnocratie"
+- 17. Intelligence artificielle - Peut-elle remplacer le philosophe
+- 18. Paul Watzlawick - 10 conseils pour être malheureux (Partie 2)
+- 19. Paul Watzlawick - 10 conseils pour être malheureux (Partie 1)
+- 20: Kropotkine - La morale anarchiste
+- 21: Sartre - On a la vie qu'on mérite
+- 22: René Girard - La rivalité mimétique
+- 23: René Girard - Le désir mimétique
+- 24: Husserl - La phénoménologie
+- 25: Schopenhauer - Les femmes
+- 26: Aristote - Les principes de la logique
+- 27: Squid Game - Consentement et manipulation
+- 28: Les 4 accords Toltèques - Apprendre à accepter
+- 29: Montaigne - La barbarie
+- 30: Kant - Le mensonge
+- 31: Gilgamesh - Accepter notre mortalité
+- 32: Schopenhauer - L'art d'avoir toujours raison
+- 33: Le stoïcisme - Perdre sa colère
+- 34: Bernard Henry Lévy - Une lumière dans les ténèbres
+- 35: Karl Popper - Le paradoxe de la tolérance
+- 36: Rousseau - Le contrat social
+- 37: Qu'est-ce que la vérité
+- 38: Lénine - Le gauchisme
+- 39: Héraclite - On ne se beigne jamais deux fois dans le même fleuve
+- 40: Bentham - Somme nous tous égoïstes?
+- 41: Nietzsche - La médisance
+- 42: Lafargue: -Le droit à la paresse
+- 43: Sun Tzu - L'art de la guerre
+- 44: Pascal - Le pari
+- 45: Calliclès - La loi du plus fort
+- 46: Bakounine - Pourquoi dieu empêche la révolution
+- 47: Heiddeger - Que veut dire "être"
+- 48: Qu'est-ce que la Zététique?
+- 49: Bourdieu - La reproduction
+-  50: Platon - L'atlantide
+- 51: Camus - L'étranger
+- 52: Marx - La lutte des classes
+- 53: Kant - Les limites de notre connaissance
+- 54: Peter Singer - Un nouveau né n'est pas une personne
+- 55: Khun - Les paradigmes
+- 56: Descartes - Sommes nous vraiment libre?
+- 57: Cloudscard - L'idéologie du désir
+- 58: Nietzsche - L'art
+- 59: Jacques Ellul - Être sincère avec sois même
+- 60: Socrate - Son procès et sa condamnation à mort
+- 61: Le stoïcisme - Se libérer du jugement
+- 62: René Guénon - La crise du monde moderne
+- 63: La philosophie des lumières
+- 64: Qu'est-ce que le wokisme
+- 65: Orwell - Le Novlangue
+- 66: Bergson - Le rire
+- 67: Hegel - Le sens de l'histoire
+- 68: Hume - L'identité
+- 69: Sartre - La mauvaise foi
+- 70: Protagoras - Le relativisme
+- 71: Le hasard existe t il
+- 72: Platon - La corruption
+- 73: Eckhart Tolle - Le pouvoir du moment présent
+- 74: Spinoza - Le conatus
+- 75: Sartre - L'amour
+- 76: Aristote - L'homme est un animal politique
+- 77: Simone Weil - Pourquoi il faut supprimer les partis politiques
+- 78: Durkheim - L'invention de la sociologie
+- 79: Simone de Beauvoir - Le féminisme existentialiste
+- 80: Le Marquis de Sade - L'apologie du mal
+- 81: Michéa - La religion du progrès
+- 82: Michéa - Le libéralisme
+- 83: Nietzsche - Le nihilisme
+- 84: Camus - L'absurde
+- 85: Sartre - Le regard des autres
+- 86: Hegel - Le désire de reconnaissance
+- 87: Les 10 meilleurs citations du stoïcisme- 
+- 88: Les 10 meilleurs citations du stoïcisme
+- 89: La Boétie - La servitude volontaire
+- 90: Harari - Comment  Sapiens est devenu maître du monde
+- 91: William James - Le pragmatisme
+- 92: Adam Smith - La main invisible
+- 93: Spinoza -  Le déterminisme
+- 94: Prométhée - Le don de la connaissance
+- 95: Edward Bernays - Comment manipuler l'opinion
+- 96: L'expérience de Milgram - La soumission à l'autorité
+- 97: Schopenhauer - L'art d'avoir toujours raison
+- 98: Rousseau - Le désir
+- 99: Épicure - La mort n'est rien
+- 100: Freud - L'origine de la religion
+- 101: Descartes - Peut-on prouver l'existence de Dieu?
+- 102: Bergson - Les limites du language
+- 103: Socrate - La maïeutique
+- 104: Hobbes - L'homme est un loup pour l'homme
+- 105: Le stoïcisme - Trouver la paix intérieure
+- 106: Nietzsche - La morale d'esclave
+- 107: Pascal - Le divertissement
+- 108: Pascal - Le coeur à ses raisons que la raison ignore
+- 109: Platon - L'allégorie de la caverne
+- 110: Marx - L'aliénation
+- 111: Bergson - Le temps
+- 112: Spinoza - Dieu n'attend rien de nous
+- 113: Adam et ève - Quelles fautes ont-ils commise?
+- 114: Hume - Tout n'est que croyance
+- 115: Freud - L'inconscient
+- 116: Rousseau - L'homme est bon pour la nature
+- 117: Machiavel - L'art de gouverner
+- 118: Schopenhauer - L'origine de notre souffrance
+- 119: Sartre - Sommes nous condamné à être libre?
+- 120: Kant - L'impératif catégorique
+- 121: Bentham - Qu'est ce que l'utilitarisme
+- 122: Hegel - La dialectique
+- 123: L'épicurisme - La recette du bonheur
+- 124: Platon - La vérité n'est pas de ce monde
+- 125: Nietzsche - L'exaltation de la vie
+- 126: Schopenhauer - La métaphysique, l'amour, le sex
+- 127: Spinoza - Le libre arbitre est-il une illusion
+- 128: Leibniz - Le mal n'existe pas
+- 129: Le stoïcisme - Vaincre nos émotions
+- 120: Descartes - Je pense donc je suis

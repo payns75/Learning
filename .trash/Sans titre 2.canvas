@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"105872999eacdfea",
+			"type":"text",
+			"text":"[[Jiu Jitsu - Blanche, Jaune, Orange#Mae Ukemi]]\n",
+			"styleAttributes":{},
+			"x":-380,
+			"y":740,
+			"width":260,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"5526000595386d3b"
+	}
+}

@@ -1,0 +1,1 @@
+C'est l'idée selon laquelle, les être humains possèderaient une essence. Qu'ils possèderaient une nature dont ils ne pourraient pas s'affranchir. Avoir une essence c'est posséder une identité figée.

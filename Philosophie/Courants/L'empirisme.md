@@ -1,0 +1,2 @@
+
+Est une doctrine philosophique affirmant que toute connaissance provient de l'expérience sensible (sens, observation) et non d'idées innées. S'opposant au rationalisme, il considère l'esprit comme une "table rase" à la naissance. Il utilise l'induction pour établir des lois générales à partir de faits particuliers.
