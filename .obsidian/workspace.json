@@ -13,34 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "file": "Philosophie/Philosophes/Sartre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Duo Lingo"
+              "title": "Sartre"
             }
-          }
-        ]
-      },
-      {
-        "id": "61204fdde204b84b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e745070f788c958c",
+            "id": "bd490e95e8b31436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Configure Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hiragana"
+              "title": "Configure Obsidian"
             }
           }
         ]
@@ -164,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Philosophie/Philosophes/Sartre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Hiragana"
+              "title": "Plan de Sartre"
             }
           },
           {
@@ -205,12 +199,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e745070f788c958c",
+  "active": "6b4f5f4ef1aa5256",
   "lastOpenFiles": [
+    "Philosophie/Philosophes/Nietzsche.md",
+    "Philosophie/Philosophes/_ Prompt fiche philosophe.md",
+    "Configure Obsidian.md",
+    "Philosophie/Philosophes/Schopenhauer.md",
+    "Philosophie/Philosophes/William James.md",
+    "Philosophie/Philosophes/Sartre.md",
     "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/Katakana.md",
     "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
-    "Divers/Japonais/Hiragana.md",
     "AI/Gouvernance/Projets IA.md",
     "AI/Gouvernance/Histoire de l’IA Générative - De Toronto à ChatGPT.md",
     "AI/Gouvernance/Gouvernance de données.md",
@@ -221,7 +221,6 @@
     "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
     "Divers/JiveClub.md",
     "AI/Gouvernance",
-    "Configure Obsidian.md",
     "Journaling/2025-11-08.md",
     "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Exercices",
@@ -229,13 +228,8 @@
     "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Divers/Jiujitsu/Jiujitsu - Questions.md",
     "Divers/Japonais/Les formes verbales japonaises.md",
-    "Philosophie/Philosophes/Nietzsche.md",
     "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
     "Divers/Jiujitsu/Sans titre.canvas",
-    "Divers/Jiujitsu/Jiujitsu - Lexique du Dojo.md",
-    "Philosophie/Philosophes/Sartre.md",
-    "Philosophie/Époques/Époques.md",
-    "Philosophie/Philosophes/William James.md",
     "Divers/Japonais",
     "Divers/Jiujitsu",
     "Markwhen/Markwhen 4-2-2026 20.31.36.mw",

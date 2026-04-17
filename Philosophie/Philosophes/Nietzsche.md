@@ -5,13 +5,78 @@
 - [ ] 58: Nietzsche - L'art
 - [ ] 83: Nietzsche - Le nihilisme
 - [ ] 106: Nietzsche - La morale d'esclave
-- [ ] 125: Nietzsche - L'exaltation de la vie
-- [ ]  Wikipédia Auteur
-- [ ] Wikipédia Oeuvre
-- [ ] Livres
-----
+- [x] 125: Nietzsche - L'exaltation de la vie
 
+----
+## Friedrich Nietzsche
+
+### Repères biographiques
+- Né le 15 octobre 1844, mort le 25 août 1900, en Allemagne (Prusse puis Weimar)
+- Professeur de philologie classique à l'université de Bâle à seulement 24 ans
+- Après sa mort, certaines de ses idées furent déformées par sa sœur, antisémite convaincue, pour les rapprocher des thèses nazies — ce qui explique en partie les malentendus persistants sur sa pensée
+### Courant(s) philosophique(s) et période
+- Philosophie continentale, XIXe siècle
+- Son influence a été centrale sur l'existentialisme et la philosophie postmoderne, bien qu'il soit inclassable dans un courant unique
+- Pensée fragmentaire, aphoristique, délibérément non systématique
+### Influences reçues
+- Schopenhauer, dont la lecture éveille son intérêt philosophique — mais qu'il renverse ensuite complètement
+- Les Grecs anciens : Sophocle, Eschyle, les présocratiques
+- Darwin et le naturalisme scientifique du XIXe siècle
+### Concepts clés
+- **Volonté de puissance** — dépassement de soi, affirmation de la vie, pas domination des autres
+- **Ressentiment** — moteur psychologique de la morale d'esclave
+- **Surhomme** (_Übermensch_) — celui qui crée ses propres valeurs, affranchi du ressentiment
+- **Éternel retour** — accepter sa vie telle qu'elle est, au point de vouloir la revivre infiniment
+- **Généalogie de la morale** — méthode pour remonter aux intérêts qui ont produit les valeurs
+### Grandes œuvres
+- _La Naissance de la tragédie_ (1872)
+- _Humain, trop humain_ (1878)
+- _Le Gai Savoir_ (1882)
+- _Ainsi parlait Zarathoustra_ (1883-1885)
+- _Par-delà bien et mal_ (1886)
+- _La Généalogie de la morale_ (1887)
+- _Le Crépuscule des idoles_ (1888)
+- _L'Antéchrist_ (1888)
+- _Ecce Homo_ (1888, publié posthume)
+### Influence exercée
+- Existentialisme (Sartre, Heidegger)
+- Philosophie postmoderne (Foucault, Deleuze)
+- Psychanalyse (Freud reconnaît sa dette envers Nietzsche)
+- Littérature (Camus, Stefan Zweig, Thomas Mann)
+### Citations représentatives
+- _"Dieu est mort."_ — Le Gai Savoir
+- _"Ce qui ne me tue pas me rend plus fort."_ — Le Crépuscule des idoles
+- _"Il faut avoir du chaos en soi pour accoucher d'une étoile qui danse."_ — Ainsi parlait Zarathoustra
+### En deux phrases
+Nietzsche diagnostique la culture occidentale comme malade de son propre ressentiment : elle a inventé la morale, Dieu et la vérité pour fuir la réalité et brider les forts. Sa philosophie est un appel à dire oui à la vie telle qu'elle est, à créer ses propres valeurs plutôt qu'à les subir.
+
+---
 ## L'exaltation de la vie
+*La pensée de Nietzsche est une critique globale de la culture occidentale*. 
+Nietzsche combattait toutes les pensées qui font une distinction entre le bien et le mal, toutes les idéologies qui prétendaient dicter aux hommes la manière de se comporter.
+
+La pensée de Nietzsche est basée sur une approche naturaliste, une approche biologique de la pensée. **Toute philosophie vient du corps, c'est à dire que l'on pense comme on est constitué physiologiquement**. Notre constitution biologique va déterminer la manière dont on va penser et se représenter le monde.
+
+*La physiologie détermine la morale et la morale détermine les idées.* Pour Nietzsche, **un individu de constitution faible aura une morale de faible**, et comme il a une morale de faible, il aura des idées faibles.
+
+Nietzsche va se livrer à une généalogie de la pensée et à une généalogie de la morale. La généalogie de la morale, c'est essayer de comprendre l'histoire de la morale et qui a créé la morale. **Du moment ou l'on saura qui a créé la morale, on saura ce qu'est la morale.** 
+Pour Nietzsche, il n'y a pas d'au delà, il n'y a pas de transcendance, d'extérieur à la réalité. *Il n'y a pas de transcendance ni d'extérieur à la réalité*; croyance que partagent pourtant platoniciens et chrétiens, et que Nietzsche rejette. 
+Pour Nietzsche, **toute pensée qui repose sur une séparation entre le bien et le mal, le vrai et le faux a été créé de toute pièce par les faibles pour vaincre les forts**.
+
+La morale du ressentiment, c'est la morale qui dit que le fort n'a pas le droit d'utiliser sa force contre le faible, la morale qui dit qu'il est mal de se comporter de manière égoïste ou la morale qui va s'appuyer sur la culpabilité. Autrement dit, **la morale du ressentiment, c'est la morale qui va nier la vie.** 
+Pour Nietzsche, la vie est essentiellement volonté de puissance. La volonté de puissance n'est pas un désir d'_avoir_ du pouvoir, c'est un processus de _dépassement_ permanent. **Ce n'est pas un état à atteindre, c'est un mouvement continu.**
+
+> [!NOTE] 
+> Pour nous la puissance est une notion négative car on l'associe avec la domination d'autrui; Pour Nietzsche, la puissance n'a rien à voir avec ça, le fort, animé de volonté de puissance n'en a rien à faire de dominer le faible car dans ce cas, ce serait considérer que le faible a une valeur, lui accorder une valeur qu'en tant que faible il ne mérite pas.
+
+La volonté de puissance est une idée primitive, instinctive, originelle qui traverse tout ce qui est, et c'est pour Nietzsche la seule réalité. La volonté de puissance c'est l'essence même de la vie.
+
+> [!info] Le Surhomme
+> Pour Nietzsche, le Surhomme est celui qui ne se trouve plus dans la morale du ressentiment, c'est celui qui s'est affranchi de tous les dualismes, qui accepte l'immanence de l'être, qui accepte que la réalité que nous connaissons soit la seule réalité existante, et cette réalité là, nous devons l'assumer, ne pas la fuir, ne pas en chercher une qui serait meilleur. Car rechercher une réalité qui serait meilleure serait démontrer notre incapacité à nous adapter à cette réalité, ce serait donc démontrer notre faiblesse.
+
+*La morale des faibles, c'est une morale qui s'occupe des autres*, elle ne s'occupe plus d'elle-même, donc une perte de puissance, de vitalité d'où le désir de vengeance et de condamner les forts pour nos propres faiblesses. 
+*La morale des forts, c'est une morale d'auto-affirmation*, le fort n'accorde aucune attention au faible, il se contente d'être dans la vie, dans la force du devenir. Si le faible se dresse sur son passage, il en subira les conséquences, mais d'une manière purement mécanique, *le fort ne va pas rechercher à dominer le faible, le faible va pâtir de la force du fort puisque la force du fort s'exprime*. Et elle ne peut que s'exprimer car c'est son essence même.
+
 ## La médisance
 
 Nietzsche n'était pas un philosophe de système, chez lui, la pensée est plutôt fragmentaire. Quand on lit Nietzsche, on peut lire quelque chose qui semble contradictoire avec ce qu'il vient de dire avant. Il n'est pas classable en terme d'idéologie. 
