@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "file": "Divers/Japonais/Hiragana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Duo Lingo"
+              "title": "Plan de Hiragana"
             }
           },
           {
@@ -205,10 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b4f5f4ef1aa5256",
+  "active": "e745070f788c958c",
   "lastOpenFiles": [
-    "Divers/Japonais/Katakana.md",
     "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/Katakana.md",
     "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
     "Divers/Japonais/Hiragana.md",
     "AI/Gouvernance/Projets IA.md",
