@@ -106,13 +106,85 @@
 > Il a longtemps servi d'équivalent de notre "abcd..." pour ordonner les dictionnaires et les listes au Japon.
 > Le seul hiragana absent est **ん** (*n*), qui n'existait pas encore à l'époque de sa composition.
 
-> [!tip] Hiragana couverts
-> い ろ は に ほ へ と / ち り ぬ る を
-> わ か よ た れ そ / つ ね な ら む
-> う ゐ の お く や ま / け ふ こ え て
-> あ さ き ゆ め み し / ゑ ひ も せ す
+> [!tip] Conversion
+> i ro ha ni ho he to chi 
+> ri nu ru wo 
+> wa ka yo ta re so 
+> tsu ne na ra mu 
+> u wi no o ku ya ma 
+> ke fu ko e te 
+> a sa ki yu me mi shi 
+> we hi mo se su
+
+## Exceptions orthographiques historiques
+
+> [!note] Pourquoi ces exceptions ?
+> Le japonais a conservé certaines orthographes anciennes même si la prononciation a évolué.
+> Ces cas sont figés et doivent simplement être mémorisés.
+
+### Le wa écrit は
+
+La particule **wa** (thème) et certaines formules de salutation s'écrivent は (*ha*) et non わ.
+
+| Mot | Écriture | Prononciation |
+|---|---|---|
+| Bonjour | こんにちは | *konnichiwa* |
+| Bonsoir | こんばんは | *konbanwa* |
+| Particule de thème | は | *wa* |
+
+### Le e écrit へ
+
+La particule de direction **e** s'écrit へ (*he*) et non え.
+
+| Mot | Écriture | Prononciation |
+|---|---|---|
+| Particule de direction | へ | *e* |
+| Tokyo (vers) | とうきょうへ | *Tōkyō e* |
+
+### Le o écrit を
+
+La particule d'objet direct **wo** s'écrit を et se prononce simplement *o* en japonais moderne.
+
+| Mot | Écriture | Prononciation |
+|---|---|---|
+| Particule d'objet direct | を | *o* (et non *wo*) |
+
+### Les voyelles longues
+
+En hiragana, certaines voyelles longues s'écrivent différemment de ce qu'on attendrait :
+
+| Son | Écriture attendue | Écriture réelle | Exemple |
+|---|---|---|---|
+| *ō* long | おお | **おう** | とうきょう *Tōkyō* |
+| *ē* long | ええ | **えい** | せんせい *sensei* |
+
+> [!warning] Exception à l'exception
+> Le son *ō* s'écrit parfois vraiment おお — ex. おおきい *ookii* (grand).
+> C'est le contexte et la mémorisation mot par mot qui tranchent.
+
+> [!tip] À retenir en priorité
+> Les trois particules sont les plus importantes car tu les utiliseras constamment :
+> - は → *wa* (thème)
+> - へ → *e* (direction)
+> - を → *o* (objet direct)
 
 ## Mots clés par ligne
+### Ligne de lettres
+|Syllabe|Mot|Sens|
+|---|---|---|
+|あ _a_|あめ _ame_|pluie|
+|い _i_|いぬ _inu_|chien|
+|う _u_|うみ _umi_|mer|
+|え _e_|えき _eki_|gare|
+|お _o_|おに _oni_|démon
+### Ligne K
+|Syllabe|Mot|Sens|
+|---|---|---|
+|か _ka_|かさ _kasa_|parapluie|
+|き _ki_|きって _kitte_|timbre|
+|く _ku_|くも _kumo_|nuage|
+|け _ke_|けいたい _keitai_|téléphone portable|
+|こ _ko_|こども _kodomo_|enfant|
 
 ### Ligne S
 
