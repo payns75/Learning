@@ -4,17 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "88f446b335f6793e",
+        "id": "4413ebbe64607a55",
         "type": "tabs",
         "children": [
           {
-            "id": "c7eeb992c44510ec",
+            "id": "6b4f5f4ef1aa5256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Duo Lingo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "61204fdde204b84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e745070f788c958c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divers/Japonais/Hiragana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hiragana"
             }
           }
         ]
@@ -49,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#jiujitsu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +83,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -74,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 339.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -129,7 +155,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -138,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": true,
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Duo Lingo"
             }
           },
           {
@@ -152,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -161,12 +188,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 345.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -175,48 +201,50 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
       "github-sync:Sync with Remote": false,
-      "markwhen:Create new Markwhen file": false
+      "markwhen:Create new Markwhen file": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c7eeb992c44510ec",
+  "active": "6b4f5f4ef1aa5256",
   "lastOpenFiles": [
-    "AI/Gouvernance/Gouvernance IA.md",
-    "Philosophie/Philosophes/Nietzsche.md",
-    "AI/Gouvernance/Gouvernance de données.md",
-    "AI/Gouvernance/Histoire de l’IA Générative - De Toronto à ChatGPT.md",
-    "AI/Gouvernance/DGMO.md",
-    "AI/Build a Large Language Model/Coding attention mechanism.md",
-    "Divers/Japonais/Hiragana.md",
-    "Divers/Japonais/Exercices/Duo Lingo.md",
-    "AI/Gouvernance/Projets IA.md",
-    "Configure Obsidian.md",
-    "Sans titre.md",
-    "Divers/Japonais/Traduction de phrases.md",
-    "Divers/JiveClub.md",
-    "Divers/Japonais/Exercices/Traduction de phrases.md",
-    "Divers/Japonais/Exercices",
-    "AI/Gouvernance",
-    "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Katakana.md",
-    "Philosophie/Philosophes/William James.md",
-    "Philosophie/Philosophes/Sartre.md",
-    "Philosophie/Philosophes/Rousseau.md",
-    "Philosophie/Glossary/Glossaire.md",
-    "Philosophie/Courants/Le rationalisme.md",
-    "Philosophie/Courants/Le déterminisme.md",
-    "Philosophie/Courants/L'existentialisme.md",
-    "Philosophie/Courants/L'essentialisme.md",
-    "Philosophie/Courants/L'empirisme.md",
+    "Divers/Japonais/Exercices/Duo Lingo.md",
+    "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
+    "Divers/Japonais/Hiragana.md",
+    "AI/Gouvernance/Projets IA.md",
+    "AI/Gouvernance/Histoire de l’IA Générative - De Toronto à ChatGPT.md",
+    "AI/Gouvernance/Gouvernance de données.md",
+    "AI/Gouvernance/Gouvernance IA.md",
+    "AI/Gouvernance/DGMO.md",
+    "Divers/Japonais/Exercices/Traduction de phrases.md",
+    "AI/Gouvernance/Réflexion sur l'IA.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/JiveClub.md",
+    "AI/Gouvernance",
+    "Configure Obsidian.md",
+    "Journaling/2025-11-08.md",
+    "Divers/Japonais/2. Grammaire.md",
+    "Divers/Japonais/Exercices",
+    "Divers/Japonais/1. La prononciation.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
+    "Divers/Jiujitsu/Jiujitsu - Questions.md",
+    "Divers/Japonais/Les formes verbales japonaises.md",
+    "Philosophie/Philosophes/Nietzsche.md",
+    "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
+    "Divers/Jiujitsu/Sans titre.canvas",
     "Divers/Jiujitsu/Jiujitsu - Lexique du Dojo.md",
-    "Divers/Jiujitsu",
+    "Philosophie/Philosophes/Sartre.md",
+    "Philosophie/Époques/Époques.md",
+    "Philosophie/Philosophes/William James.md",
     "Divers/Japonais",
+    "Divers/Jiujitsu",
+    "Markwhen/Markwhen 4-2-2026 20.31.36.mw",
+    "Markwhen",
     "Divers",
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "Philosophie/Courants",
     "Philosophie/Époques",
     "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
-    "Philosophie/Philosophes",
-    "Philosophie/Glossary",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Roadmap/Untitled.canvas",
     "_Attachments/Pasted image 20251108063058.png",
     "Untitled 1.canvas"
