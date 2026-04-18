@@ -106,23 +106,15 @@
 > Il a longtemps servi d'équivalent de notre "abcd..." pour ordonner les dictionnaires et les listes au Japon.
 > Le seul hiragana absent est **ん** (*n*), qui n'existait pas encore à l'époque de sa composition.
 
-> [!tip] Hiragana couverts
-> い ろ は に ほ へ と / ち り ぬ る を
-> わ か よ た れ そ / つ ね な ら む
-> う ゐ の お く や ま / け ふ こ え て
-> あ さ き ゆ め み し / ゑ ひ も せ す
-
-## Mots clés par ligne
-
-### Ligne S
-
-| Syllabe | Mot            | Sens                                 |
-| ------- | -------------- | ------------------------------------ |
-| さ _sa_  | さくら _sakura_   | cerisier — tu connais sûrement !     |
-| し _shi_ | しんぶん _shinbun_ | journal                              |
-| す _su_  | すし _sushi_     | sushi — facile à retenir 😄          |
-| せ _se_  | せんせい _sensei_  | professeur — tu le connais du dojo ! |
-| そ _so_  | そら _sora_      | ciel                                 |
+> [!tip] Conversion
+> i ro ha ni ho he to chi 
+> ri nu ru wo 
+> wa ka yo ta re so 
+> tsu ne na ra mu 
+> u wi no o ku ya ma 
+> ke fu ko e te 
+> a sa ki yu me mi shi 
+> we hi mo se su
 
 ## Exceptions orthographiques historiques
 
@@ -175,3 +167,31 @@ En hiragana, certaines voyelles longues s'écrivent différemment de ce qu'on at
 > - は → *wa* (thème)
 > - へ → *e* (direction)
 > - を → *o* (objet direct)
+
+## Mots clés par ligne
+### Ligne de lettres
+|Syllabe|Mot|Sens|
+|---|---|---|
+|あ _a_|あめ _ame_|pluie|
+|い _i_|いぬ _inu_|chien|
+|う _u_|うみ _umi_|mer|
+|え _e_|えき _eki_|gare|
+|お _o_|おに _oni_|démon
+### Ligne K
+|Syllabe|Mot|Sens|
+|---|---|---|
+|か _ka_|かさ _kasa_|parapluie|
+|き _ki_|きって _kitte_|timbre|
+|く _ku_|くも _kumo_|nuage|
+|け _ke_|けいたい _keitai_|téléphone portable|
+|こ _ko_|こども _kodomo_|enfant|
+
+### Ligne S
+
+| Syllabe | Mot            | Sens                                 |
+| ------- | -------------- | ------------------------------------ |
+| さ _sa_  | さくら _sakura_   | cerisier — tu connais sûrement !     |
+| し _shi_ | しんぶん _shinbun_ | journal                              |
+| す _su_  | すし _sushi_     | sushi — facile à retenir 😄          |
+| せ _se_  | せんせい _sensei_  | professeur — tu le connais du dojo ! |
+| そ _so_  | そら _sora_      | ciel                                 |
