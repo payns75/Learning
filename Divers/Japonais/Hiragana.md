@@ -195,11 +195,3 @@ En hiragana, certaines voyelles longues s'écrivent différemment de ce qu'on at
 | す _su_  | すし _sushi_     | sushi — facile à retenir 😄          |
 | せ _se_  | せんせい _sensei_  | professeur — tu le connais du dojo ! |
 | そ _so_  | そら _sora_      | ciel                                 |
-### Ligne T
-|Syllabe|Mot|Sens|
-|---|---|---|
-|た _ta_|たべる _taberu_|manger|
-|ち _chi_|ちち _chichi_|père|
-|つ _tsu_|つき _tsuki_|lune|
-|て _te_|てがみ _tegami_|lettre (courrier)|
-|と _to_|とうきょう _Tōkyō_|Tokyo|
