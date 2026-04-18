@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hiragana"
+              "title": "Duo Lingo"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "1c2e248c6666fbd9",
   "lastOpenFiles": [
-    "Divers/JiveClub.md",
     "Divers/Japonais/Hiragana.md",
+    "Divers/JiveClub.md",
     "Divers/Japonais/Katakana.md",
     "Divers/Japonais/2. Grammaire.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
