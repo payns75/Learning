@@ -44,7 +44,7 @@
 | ----------- | ------------- | ---------- |
 | にほん         | ni-ho-n       | Japon      |
 | ==アメリカ==    | a-me-ri-ca    | Amérique   |
-| おおきい        | o-o-ki        | grand      |
+| おおきい        | o-o-ki-i      | grand      |
 | ==カナダ==     | ka-na-da      | Canada     |
 | ==カナダ==*じん* | ka-na-da-ji-n | Canadien   |
 | ==ブラジル==    | bu-ra-ji-ru   | Brésil     |
