@@ -51,6 +51,43 @@
 Nietzsche diagnostique la culture occidentale comme malade de son propre ressentiment : elle a inventé la morale, Dieu et la vérité pour fuir la réalité et brider les forts. Sa philosophie est un appel à dire oui à la vie telle qu'elle est, à créer ses propres valeurs plutôt qu'à les subir.
 
 ---
+## Le nihilisme
+Pour comprendre le *nihilisme* chez Nietzsche, la pire des erreurs serait de regarder dans le dictionnaire la définition du *nihilisme*.
+
+Ce que reproche Nietzsche à l'occident moderne, c'est d'être porteur de valeurs mortifères. Les valeurs mortifères selon Nietzsche, ce sont les valeurs par lesquels nous exprimons notre rejet de la force vitale, l'énergie qui anime toute forme vivante. Chez Nietzsche, cette force qui anime les être vivants, c'est la **volonté de puissance**.
+
+Le *nihilisme* c'est le rejet de la valeur de la *volonté de puissance*. 
+
+Atteindre le repos n'est pas le but de l'existence selon Nietzsche, le but de l'existence, c'est de vivre, c'est d'embrasser la vie. **La vie n'a pas d'autre sens ni d'autres but qu'elle même**. Il faut vivre comme si notre vie allait se répéter éternellement.
+
+Nietzsche a l'impression que cette exaltation de la vie, l'histoire la rejette, les hommes la rejette parce que la civilisation leur a appris à la rejeter avec des systèmes de valeur structurés autour de l'idée du bien; qu'il s'agisse du bien dicté par dieu, Socrate, morale ou politique, *les systèmes de valeur ont en commun de tendre vers l'idée du bien*. 
+Le problème majeur est, **qui décrète ce qui est bien?**. Qui fixe les limites du légitime et du non légitime. *On qualifie de nuisible et de mauvaises, l'ensemble des actions qui portent préjudice à notre intérêt.*. **La condamnation de la violence vient du fait que nous la subissons, et que nous ne voulons pas la subir**.
+Il est hypocrite d'affirmer que nos valeurs morales seraient désintéressées. Pour Nietzsche, ce parti pris philosophique équivaut à une condamnation de la vie elle-même. La vie c'est aussi de la violence, c'est aussi de la force qui s'exprime.
+
+On voit trois coups critique porté par Nietzsche à la morale:
+- Qu'elle soit arbitraire, c'est le masque de l'intérêt des faibles. On ne rejette pas la violence car elle est condamnable, on la juge condamnable parce qu'on la rejette.
+- Si la morale est arbitraire, elle est donc relative. La morale est une création psychique qui veut se faire passer pour une loi transcendante. 
+- La morale est mortifère parce qu'elle nie le sens de la vie. Elle nie le coeur de la vie qui est indissociablement jouissance et souffrance. 
+
+*Le respect de l'autre est fondé sur la crainte, sur la lâcheté.* 
+
+La règle d'or: **Ne fait pas à autrui ce que tu ne voudrais pas qu'il te fasse.** C'est parce que tu ne voudrais pas qu'il te le fasse que tu juges que c'est mal!
+
+Pour Nietzsche, le *nihilisme*, **c'est l'adhésion à un système de valeur basé sur la croyance en l'existence d'une morale transcendante**. 
+
+C'est si l'on cherche *nihilisme* dans un dictionnaire, nous allons tomber sur la définition qui est la négation de toutes les valeurs morales et sociales. Au fait, de ne croire en rien.
+
+Il y a deux nihilisme chez Nietzsche:
+- _nihilisme actif_: La négation de l'autorité des valeurs morales, celui que Nietzsche _combat_. La négation des principes dit transcendant qui seraient censé gouverner nos vie à travers une grille d'évaluation selon qu'elles soient jugées bonnes ou mauvaises.
+
+> Dieu est mort! Dieu reste mort! Et c'est nous qui l'avons tué! Comment nous consoler, nous les meurtriers des meurtriers? Ce que le monde a possédé jusqu'à présent de plus sacré et de plus puissant a perdu son sang sous notre couteau. - Qui nous lavera de ce sang? À quelle eau pourrions-nous nous purifier? Quelles expiations, quels jeux sacrés serons-nous forcés d'inventer? La grandeur de cet acte n'est-elle pas trop grande pour nous? Ne sommes-nous pas forcés de devenir nous-mêmes des dieux simplement - ne fût-ce que pour paraître dignes d'eux? 
+> Nietzsche, Le gai savoir.
+
+- _nihilisme passif_: Le second nihilisme est celui de la vie, la négation de la vie et de la volonté de puissance. *La vie se moque des cadres que les hommes ont inventé pour la canaliser*. Pour lui ce sont les moralistes qui sont les nihilistes. C'est la morale qui nie la valeur suprême qu'est la vie.
+
+> Le nihilisme des forts est une négation des valeurs, le nihilisme des faibles est une négation de la vie. 
+> Le nihilisme des forts est une négation de la forme, le nihilisme des faibles est une négation de la force.
+
 ## L'exaltation de la vie
 *La pensée de Nietzsche est une critique globale de la culture occidentale*. 
 Nietzsche combattait toutes les pensées qui font une distinction entre le bien et le mal, toutes les idéologies qui prétendaient dicter aux hommes la manière de se comporter.
