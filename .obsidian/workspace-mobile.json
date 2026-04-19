@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hiragana"
+              "title": "Duo Lingo"
             }
           }
         ]
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Divers/Japonais/Hiragana.md",
+            "file": "Divers/Japonais/Exercices/Duo Lingo.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,8 +166,21 @@
   },
   "active": "1c2e248c6666fbd9",
   "lastOpenFiles": [
-    "Divers/JiveClub.md",
     "Divers/Japonais/Hiragana.md",
+    "Philosophie/Philosophes/Schopenhauer.md",
+    "Philosophie/Philosophes/_ Prompt fiche philosophe.md",
+    "Divers/Japonais/Exercices/Traduction de phrases.md",
+    "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/Exercices",
+    "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
+    "AI/Gouvernance/Projets IA.md",
+    "AI/Gouvernance/Histoire de l’IA Générative - De Toronto à ChatGPT.md",
+    "AI/Gouvernance/Gouvernance IA.md",
+    "AI/Gouvernance/Gouvernance de données.md",
+    "AI/Gouvernance/DGMO.md",
+    "AI/Gouvernance",
+    "Divers/Japonais/2. Grammaire.md",
+    "Divers/JiveClub.md",
     "Divers/Japonais/Katakana.md",
     "Divers/Japonais/2. Grammaire.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
@@ -184,25 +197,13 @@
     "Sans titre.canvas",
     "Philosophie/Époques/Époques.md",
     "Philosophie/Époques",
-    "Philosophie/PLAN D'ÉTUDE.md",
-    "Philosophie/Philosophes/William James.md",
-    "Philosophie/Philosophes/Rousseau.md",
-    "Philosophie/Glossary/Glossaire.md",
-    "Philosophie/Courants/Le rationalisme.md",
-    "Philosophie/Courants/Le déterminisme.md",
-    "Philosophie/Courants/L'existentialisme.md",
-    "Philosophie/Courants/L'essentialisme.md",
-    "Philosophie/Courants/L'empirisme.md",
     "Philosophie/Philosophes",
     "Philosophie/Glossary",
     "Philosophie/Courants",
     "Philosophie",
-    "Divers/Jiu Jitsu.md",
     "Divers",
     "Art Oratoire/Briller à l'oral/Briller à l'oral - Être convaincant.md",
     "Art Oratoire/Briller à l'oral",
-    "Art Oratoire",
-    "AI/Build a Large Language Model/Build a Large Language Model.canvas",
-    "AI/Build a Large Language Model"
+    "AI/Build a Large Language Model/Build a Large Language Model.canvas"
   ]
 }
