@@ -1,17 +1,17 @@
 ### Tai Sabaki / Déplacement 
-#### Irimi
+#### Irimi - いりみ
 *Entrée directe dans l'axe de l'attaque* #jiujitsu/Blanche 
 1. Détecter/anticiper l'attaque
 2. Avancer directement dans l'axe d'attaque
 3. Déplacer hanche et épaules au-delà du centre
 4. Maintenir équilibre et contrôle
-#### O Irimi
+#### O Irimi - おいりみ
 *Grande entrée avec engagement profond* #jiujitsu/Blanche 
 1. Grand pas d'avance en diagonale
 2. Profonde pénétration du centre
 3. Corps aligné avec engagement maximal
 4. Placer le partenaire complètement hors équilibre
-#### Tenkan
+#### Tenkan - てんかん
 *Rotation circulaire pour sortir de l'axe* #jiujitsu/Blanche 
 1. Détecter/anticiper l'attaque
 2. Pivoter circulairement autour de l'axe du partenaire

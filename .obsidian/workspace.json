@@ -13,28 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Philosophes/Sartre.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sartre"
+              "title": "Duo Lingo"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "19d339e9ad3cea2b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bd490e95e8b31436",
+            "id": "3911188d378d9b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configure Obsidian.md",
+                "file": "Divers/Japonais/Hiragana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Configure Obsidian"
+              "title": "Hiragana"
             }
           }
         ]
@@ -158,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Philosophes/Sartre.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Sartre"
+              "title": "Plan de Duo Lingo"
             }
           },
           {
@@ -201,14 +207,19 @@
   },
   "active": "6b4f5f4ef1aa5256",
   "lastOpenFiles": [
+    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
+    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
+    "Divers/Japonais/Hiragana.md",
+    "Divers/Japonais/2. Grammaire.md",
+    "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/Exercices/Traduction de phrases.md",
+    "Divers/Japonais/1. La prononciation.md",
+    "Philosophie/Philosophes/Sartre.md",
     "Philosophie/Philosophes/Nietzsche.md",
     "Philosophie/Philosophes/_ Prompt fiche philosophe.md",
     "Configure Obsidian.md",
     "Philosophie/Philosophes/Schopenhauer.md",
     "Philosophie/Philosophes/William James.md",
-    "Philosophie/Philosophes/Sartre.md",
-    "Divers/Japonais/Exercices/Duo Lingo.md",
-    "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/Katakana.md",
     "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
     "AI/Gouvernance/Projets IA.md",
@@ -216,16 +227,11 @@
     "AI/Gouvernance/Gouvernance de données.md",
     "AI/Gouvernance/Gouvernance IA.md",
     "AI/Gouvernance/DGMO.md",
-    "Divers/Japonais/Exercices/Traduction de phrases.md",
     "AI/Gouvernance/Réflexion sur l'IA.md",
-    "Divers/Jiujitsu/Jiu Jitsu - Blanche, Jaune, Orange.md",
     "Divers/JiveClub.md",
     "AI/Gouvernance",
     "Journaling/2025-11-08.md",
-    "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Exercices",
-    "Divers/Japonais/1. La prononciation.md",
-    "Divers/Jiujitsu/Jiu Jitsu - Verte et Bleue.md",
     "Divers/Jiujitsu/Jiujitsu - Questions.md",
     "Divers/Japonais/Les formes verbales japonaises.md",
     "Divers/Jiujitsu/Jiujitsu - Lexique de combat.md",
