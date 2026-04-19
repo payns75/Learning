@@ -17,7 +17,7 @@
 | **m** | ま *ma* | み *mi*  | む *mu*  | め *me* | も *mo* |
 | **y** | や *ya* |         | ゆ *yu*  |        | よ *yo* |
 | **r** | ら *ra* | り *ri*  | る *ru*  | れ *re* | ろ *ro* |
-| **w** | わ *wa* |         |         |        | を *wo* |
+| **w** | わ*wa*  |         |         |        | を *wo* |
 | **n** | ん *n*  |         |         |        |        |
 
 > [!warning] Irréguliers à retenir
