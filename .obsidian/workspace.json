@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
+                "file": "AI/Gouvernance/DGMO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prompt d'analyse d'un partenaire"
+              "title": "DGMO"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
+                "file": "AI/Gouvernance/DGMO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Prompt d'analyse d'un partenaire"
+              "title": "Plan de DGMO"
             }
           },
           {
@@ -186,15 +186,15 @@
   },
   "active": "c7eeb992c44510ec",
   "lastOpenFiles": [
+    "Divers/Japonais/Hiragana.md",
+    "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
     "Sans titre.md",
     "AI/Gouvernance/Gouvernance de données.md",
-    "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
     "AI/Gouvernance/Gouvernance IA.md",
     "Philosophie/Philosophes/Nietzsche.md",
     "AI/Gouvernance/Histoire de l’IA Générative - De Toronto à ChatGPT.md",
     "AI/Gouvernance/DGMO.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
-    "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/Exercices/Duo Lingo.md",
     "AI/Gouvernance/Projets IA.md",
     "Configure Obsidian.md",

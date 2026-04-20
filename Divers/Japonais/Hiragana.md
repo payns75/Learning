@@ -106,11 +106,15 @@
 > Il a longtemps servi d'équivalent de notre "abcd..." pour ordonner les dictionnaires et les listes au Japon.
 > Le seul hiragana absent est **ん** (*n*), qui n'existait pas encore à l'époque de sa composition.
 
-> [!tip] Hiragana couverts
-> い ろ は に ほ へ と / ち り ぬ る を
-> わ か よ た れ そ / つ ね な ら む
-> う ゐ の お く や ま / け ふ こ え て
-> あ さ き ゆ め み し / ゑ ひ も せ す
+> [!tip] Conversion
+> i ro ha ni ho he to chi 
+> ri nu ru wo 
+> wa ka yo ta re so 
+> tsu ne na ra mu 
+> u wi no o ku ya ma 
+> ke fu ko e te 
+> a sa ki yu me mi shi 
+> we hi mo se su
 
 ## Exceptions orthographiques historiques
 

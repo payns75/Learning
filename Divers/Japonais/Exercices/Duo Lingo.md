@@ -36,4 +36,5 @@
 | ==ケーキ==  | kee-ki    | gateau     |
 | おいしい     | o-i-shi-i | délicieux  |
 | ==サラダ==  | sa-ra-da  | salade     |
+| はい       | ha-i      | oui        |
 　
