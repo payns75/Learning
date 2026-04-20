@@ -17,7 +17,7 @@
 | **m** | ま *ma* | み *mi*  | む *mu*  | め *me* | も *mo* |
 | **y** | や *ya* |         | ゆ *yu*  |        | よ *yo* |
 | **r** | ら *ra* | り *ri*  | る *ru*  | れ *re* | ろ *ro* |
-| **w** | わ *wa* |         |         |        | を *wo* |
+| **w** | わ*wa*  |         |         |        | を *wo* |
 | **n** | ん *n*  |         |         |        |        |
 
 > [!warning] Irréguliers à retenir
@@ -162,21 +162,15 @@ En hiragana, certaines voyelles longues s'écrivent différemment de ce qu'on at
 > Le son *ō* s'écrit parfois vraiment おお — ex. おおきい *ookii* (grand).
 > C'est le contexte et la mémorisation mot par mot qui tranchent.
 
-> [!tip] À retenir en priorité
-> Les trois particules sont les plus importantes car tu les utiliseras constamment :
-> - は → *wa* (thème)
-> - へ → *e* (direction)
-> - を → *o* (objet direct)
-
 ## Mots clés par ligne
 ### Ligne de lettres
-|Syllabe|Mot|Sens|
-|---|---|---|
-|あ _a_|あめ _ame_|pluie|
-|い _i_|いぬ _inu_|chien|
-|う _u_|うみ _umi_|mer|
-|え _e_|えき _eki_|gare|
-|お _o_|おに _oni_|démon
+| Syllabe | Mot      | Sens  |     |
+| ------- | -------- | ----- | --- |
+| あ _a_   | あめ _ame_ | pluie |     |
+| い _i_   | いぬ _inu_ | chien |     |
+| う _u_   | うみ _umi_ | mer   |     |
+| え _e_   | えき _eki_ | gare  |     |
+| お _o_   | おに _oni_ | démon |     |
 ### Ligne K
 |Syllabe|Mot|Sens|
 |---|---|---|
@@ -195,11 +189,3 @@ En hiragana, certaines voyelles longues s'écrivent différemment de ce qu'on at
 | す _su_  | すし _sushi_     | sushi — facile à retenir 😄          |
 | せ _se_  | せんせい _sensei_  | professeur — tu le connais du dojo ! |
 | そ _so_  | そら _sora_      | ciel                                 |
-### Ligne T
-|Syllabe|Mot|Sens|
-|---|---|---|
-|た _ta_|たべる _taberu_|manger|
-|ち _chi_|ちち _chichi_|père|
-|つ _tsu_|つき _tsuki_|lune|
-|て _te_|てがみ _tegami_|lettre (courrier)|
-|と _to_|とうきょう _Tōkyō_|Tokyo|

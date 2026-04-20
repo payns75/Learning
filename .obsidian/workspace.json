@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Gouvernance/DGMO.md",
+                "file": "AI/Gouvernance/Fournisseurs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DGMO"
+              "title": "Fournisseurs"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 553.5
   },
   "right": {
     "id": "63a64ae85c895a80",
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Gouvernance/DGMO.md",
+                "file": "AI/Gouvernance/Fournisseurs.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de DGMO"
+              "title": "Plan de Fournisseurs"
             }
           },
           {
@@ -186,17 +186,27 @@
   },
   "active": "c7eeb992c44510ec",
   "lastOpenFiles": [
+    "AI/Gouvernance/Projets IA.md",
+    "AI/Gouvernance/Fournisseurs.md",
+    "AI/Gouvernance/Gouvernance IA.md",
+    "AI/Gouvernance/Gouvernance de données.md",
+    "AI/Gouvernance/DGMO.md",
+    "Philosophie/Philosophes/_ Prompt fiche philosophe.md",
+    "Philosophie/Glossary/Glossaire.md",
+    "Philosophie/Philosophes/Nietzsche.md",
+    "Sans titre.md",
+    "_Attachments/Pasted image 20260419123653.png",
+    "_Attachments",
+    "Philosophie/Philosophes/Schopenhauer.md",
+    "Divers/Japonais/Kanji/Introduction - Kanji.md",
+    "Divers/Japonais/Kanji",
+    "Divers/Japonais/Exercices/50 mots japonais à connaître.md",
+    "Backlog.md",
     "Divers/Japonais/Hiragana.md",
     "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
-    "Sans titre.md",
-    "AI/Gouvernance/Gouvernance de données.md",
-    "AI/Gouvernance/Gouvernance IA.md",
-    "Philosophie/Philosophes/Nietzsche.md",
     "AI/Gouvernance/Histoire de l’IA Générative - De Toronto à ChatGPT.md",
-    "AI/Gouvernance/DGMO.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "Divers/Japonais/Exercices/Duo Lingo.md",
-    "AI/Gouvernance/Projets IA.md",
     "Configure Obsidian.md",
     "Divers/Japonais/Traduction de phrases.md",
     "Divers/JiveClub.md",
@@ -207,21 +217,12 @@
     "Divers/Japonais/Katakana.md",
     "Philosophie/Philosophes/William James.md",
     "Philosophie/Philosophes/Sartre.md",
-    "Philosophie/Philosophes/Rousseau.md",
-    "Philosophie/Glossary/Glossaire.md",
-    "Philosophie/Courants/Le rationalisme.md",
-    "Philosophie/Courants/Le déterminisme.md",
-    "Philosophie/Courants/L'existentialisme.md",
-    "Philosophie/Courants/L'essentialisme.md",
-    "Philosophie/Courants/L'empirisme.md",
     "Divers/Jiujitsu",
     "Divers/Japonais",
     "Divers",
     "Philosophie/Courants",
     "Philosophie/Époques",
     "Markwhen/Markwhen 3-16-2026 09.52.46.mw",
-    "Philosophie/Philosophes",
-    "Philosophie/Glossary",
     "AI/Build a Large Language Model/Build a Large Language Model.canvas",
     "AI/Roadmap/Untitled.canvas",
     "_Attachments/Pasted image 20251108063058.png",

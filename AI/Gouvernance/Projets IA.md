@@ -28,8 +28,7 @@
 - [ ] CRC-74, moteur de recherche
 #### Infrastructure
 - [x] Sentinelle
-#### Autres projets
-- [ ] VPVE application mobile de traduction
+- [ ] CXOne
 ### Projets terminés
 - [ ] VPVE application mobile de traduction
 - [ ] Infrastructure Sentinelle

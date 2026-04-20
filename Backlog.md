@@ -1,0 +1,8 @@
+- [x] Comparaison achat Amazon
+- [x] Étudier les Kanji
+- [ ] Continuer Nietzche
+- [ ] Faire révision grammaire
+- [ ] Les deux mots japonais grand et petit ne rentrent pas dans mon cerveau
+- [x] Les 50 mots à apprendre en japonais
+- [ ] Travail jiu-jitsu
+- [ ] Revoir les prononciations, notamment le U et le E. le i à la fin est prononcé 'e' pour allongé le e

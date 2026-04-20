@@ -1,16 +1,62 @@
 
 ### TODO d'analyse
 
+- [ ] Nous jouons tous un rôle
 - [ ] 21: Sartre - On a la vie qu'on mérite
 - [x] 69: Sartre - La mauvaise foi
 - [ ] 75: Sartre - L'amour
 - [x] 85: Sartre - Le regard des autres
 - [x] 119: Sartre - Sommes nous condamné à être libre?
-- [ ] Wikipédia Auteur
-- [ ] Wikipédia Oeuvre
-- [ ] Livres
 
 ----
+## Jean-Paul Sartre
+
+### Repères biographiques
+- Né le 21 juin 1905 à Paris, mort le 15 avril 1980 à Paris
+- Philosophe, romancier, dramaturge et essayiste français
+- Orphelin de père à 15 mois, élevé en milieu bourgeois et cultivé par son grand-père
+- Agrégé de philosophie en 1929, premier au concours devant Simone de Beauvoir, avec qui il entretient une relation libre et intellectuelle jusqu'à sa mort
+- Refuse le prix Nobel de littérature en 1964, estimant qu'un écrivain ne doit pas se laisser transformer en institution
+- Intellectuel engagé : résistance pendant l'Occupation, soutien aux indépendantistes algériens, participation à Mai 68
+### Courant(s) philosophique(s) et période
+- Existentialisme athée, phénoménologie — XXe siècle (principalement 1940-1970)
+- Écriture à la fois technique (traités philosophiques) et littéraire (romans, pièces de théâtre) — le seul philosophe majeur à avoir mené les deux de front à ce niveau
+### Influences reçues
+- Husserl et la phénoménologie — découverte décisive lors de son séjour à Berlin en 1933
+- Heidegger — dont il s'inspire mais dont il s'écarte sur la question de la liberté et de la subjectivité
+- Hegel et Marx — notamment dans sa période tardive avec la _Critique de la raison dialectique_
+- Descartes — le cogito comme point de départ de la conscience
+### Concepts clés
+- **L'existence précède l'essence** — l'homme n'a pas de nature prédéfinie, il se construit par ses choix
+- **Mauvaise foi** — se mentir à soi-même pour fuir sa liberté et sa responsabilité
+- **Être-pour-soi / être-en-soi** — la conscience (toujours en mouvement) vs la chose (figée dans son essence)
+- **Être-pour-autrui** — le regard d'autrui me transforme en objet, me fige dans une essence que je n'ai pas choisie
+- **Facticité** — les données brutes de mon existence (corps, naissance, passé) que je n'ai pas choisies mais dont je suis responsable de ce que j'en fais
+- **Engagement** — l'homme est condamné à choisir, et chaque choix engage toute l'humanité
+### Grandes œuvres
+- _La Transcendance de l'ego_ (1936)
+- _La Nausée_ (1938) — roman
+- _L'Être et le Néant_ (1943) — œuvre philosophique centrale
+- _Huis clos_ (1944) — pièce de théâtre
+- _Les Mouches_ (1943) — pièce de théâtre
+- _L'Existentialisme est un humanisme_ (1945) — conférence, synthèse accessible
+- _Les Mains sales_ (1948) — pièce de théâtre
+- _Critique de la raison dialectique_ (1960) — synthèse existentialisme et marxisme
+- _Les Mots_ (1964) — autobiographie
+### Influence exercée
+- Simone de Beauvoir — le féminisme existentialiste (_Le Deuxième Sexe_)
+- Albert Camus — dialogue et rupture sur la question de l'absurde et de la révolte
+- Frantz Fanon et les pensées postcoloniales
+- La psychologie humaniste (Rogers, Frankl)
+- La littérature engagée du XXe siècle
+### Citations représentatives
+- _"L'existence précède l'essence."_ — L'Existentialisme est un humanisme
+- _"L'enfer, c'est les Autres."_ — Huis clos
+- _"L'homme est condamné à être libre."_ — L'Existentialisme est un humanisme
+### En deux phrases
+Pour Sartre, l'homme n'a pas de nature donnée : sans Dieu pour le définir, il n'est rien d'autre que ce qu'il fait de lui-même, et cette liberté radicale est inséparable d'une responsabilité totale. Toute tentative d'échapper à cette liberté — en invoquant la nature, la société ou le destin — est de la mauvaise foi.
+
+---
 ## Sommes nous condamné à être libre?
 
 Pour Sartre, Dieu n'existe pas. C'est une philosophie athée. 
