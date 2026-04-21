@@ -23,37 +23,43 @@
             }
           },
           {
-            "id": "3f02e2f50977389e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divers/Japonais/Katakana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Katakana"
-            }
-          },
-          {
             "id": "bcc2bd1b3614bc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/JiveClub.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JiveClub"
+              "title": "Duo Lingo"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "34b4228b2be149a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2216636c16f7eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divers/Japonais/Hiragana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hiragana"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/JiveClub.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de JiveClub"
+              "title": "Plan de Duo Lingo"
             }
           },
           {
@@ -217,16 +223,16 @@
   },
   "active": "bcc2bd1b3614bc1b",
   "lastOpenFiles": [
-    "Divers/Japonais/Hiragana.md",
-    "Divers/Japonais/Katakana.md",
     "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Exercices/Duo Lingo.md",
-    "Divers/Japonais/Exercices/50 mots japonais à connaître.md",
+    "Divers/Japonais/Hiragana.md",
+    "Divers/Japonais/Kanji/Kanji Palier 1.md",
     "Divers/JiveClub.md",
+    "Divers/Japonais/Katakana.md",
+    "Divers/Japonais/Exercices/50 mots japonais à connaître.md",
     "AI/Gouvernance/Fournisseurs.md",
     "Sans titre.md",
     "Philosophie/Philosophes/Nietzsche.md",
-    "Divers/Japonais/Kanji/Kanji Palier 1.md",
     "Divers/Japonais/Kanji/Introduction - Kanji.md",
     "Divers/Jiujitsu/Jiu-jitsu - Décompositions.md",
     "Backlog.md",
