@@ -71,12 +71,24 @@
 - だいがく　は　ここ　です　か。
 
 #### Chapitre 1, unité 7: Parles de tes effets personnels
-| Kana    | Romaji       | Traduction |
-| ------- | ------------ | ---------- |
-| かばん     | ka-ba-n      | Sac        |
-| あかい     | a-ka-i       | rouge      |
-| ==コート== | koo-to       | manteau    |
-| わたしの    | wa-ta-shi-no | mon        |
-| しろい     | shi-ro-i     | blanc      |
-| てぶくろ    | te-bu-ku-ro  | gant       |
-| の       | no           | de         |
+| Kana    | Romaji       | Traduction | Kanji |
+| ------- | ------------ | ---------- | ----- |
+| かばん     | ka-ba-n      | Sac        | かばん   |
+| あかい     | a-ka-i       | rouge      | 赤い    |
+| ==コート== | koo-to       | manteau    |       |
+| わたしの    | wa-ta-shi-no | mon        |       |
+| しろい     | shi-ro-i     | blanc      | 白い    |
+| てぶくろ    | te-bu-ku-ro  | gant       | 手袋    |
+| の       | no           | de         |       |
+| ==くつ==  | ku-tsu       | chaussure  | 靴     |
+##### Phrases clés
+- はい、これはわたしのコートです！　
+	- *Oui, ceci est mon manteau!*
+- これ　は　わたしの　かばん　です　か。
+	- *Ceci est mon sac ?*
+- わたしの　コート　は　おおきい　です。
+	- *Mon manteau est grand.*
+- いいえ、これ　は　わたしの　かばん　じゃない　です！
+	- *Non, ceci n'est pas mon sac !*
+- わたしの　くつ　は　どこ　です　か。
+	- *Où sont mes chaussures?*
