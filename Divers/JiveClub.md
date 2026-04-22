@@ -21,7 +21,7 @@
 
 ### Session 2
 - Une correction pour moi pendant le cours, bien mettre la main au dessus de la tête de la partenaire. **Ne pas faire une auréole** autour de la tête de la partenaire; une main trop basse crée une tension désagréable sur l'épaule de la partenaire et perturbe sa rotation
-- Travailler un peu plus le bounce de gauche à droite pour bien ressentir la musique.
+- Travailler un peu plus le bounce de gauche à droite pour bien ressentir la musique. 
 - Lorsque l'on fait la *statue* ou le *flat & push*, on fait tourner une fois la partenaire, puis la barrière arrête le mouvement et donne le signal pour faire revenir la partenaire avec un tour dans l'autre sens cette fois par dessus la tête. À partir de là, nous avons appris **3 nouveaux mouvements** - pour ces 3 mouvements, *c'est le guide qui tourne*:
 	- ****« underarm turn du guide »** ou **« leader's turn »**** Lorsque la partenaire arrive face à nous, on termine le mouvement en faisant une rotation à 360° en passant en dessous de nos bras. La rotation peut se faire soit en faisant des petits pas rapides, soit en faisant directement une rotation du pied ==(talon ou avant du pied? à confirmer)==. On passe sous les bras en restant proche et en passant notre *bras derrière notre nuque*. 
 	- Un autre mouvement est de placer la main de la partenaire vers le bas, au niveau des *poignées d'amour* (le bas du dos / les hanches) et on tourne à 360° en récupérant ensuite la main de la partenaire de l'autre côté.
