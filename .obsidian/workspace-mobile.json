@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Hiragana.md",
+                "file": "Divers/JiveClub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hiragana"
+              "title": "JiveClub"
             }
           }
         ]
@@ -166,6 +166,8 @@
   },
   "active": "1c2e248c6666fbd9",
   "lastOpenFiles": [
+    "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/Hiragana.md",
     "Divers/JiveClub.md",
     "Divers/Japonais/Kanji/Introduction - Kanji.md",
     "Divers/Japonais/Kanji",
@@ -174,9 +176,7 @@
     "AI/Gouvernance/Fournisseurs.md",
     "_Attachments/Pasted image 20260419123653.png",
     "_Attachments",
-    "Divers/Japonais/Exercices/Duo Lingo.md",
     "Divers/Japonais/2. Grammaire.md",
-    "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/Katakana.md",
     "AI/Build a Large Language Model/Coding attention mechanism.md",
     "Philosophie/Philosophes/Nietzsche.md",
