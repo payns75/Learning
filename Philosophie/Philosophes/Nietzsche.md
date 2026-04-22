@@ -3,7 +3,7 @@
 - [ ] 11: Nietzsche - L'éternel retour
 - [x] 41: Nietzsche - La médisance
 - [ ] 58: Nietzsche - L'art
-- [ ] 83: Nietzsche - Le nihilisme
+- [x] 83: Nietzsche - Le nihilisme
 - [ ] 106: Nietzsche - La morale d'esclave
 - [x] 125: Nietzsche - L'exaltation de la vie
 
@@ -51,6 +51,7 @@
 Nietzsche diagnostique la culture occidentale comme malade de son propre ressentiment : elle a inventé la morale, Dieu et la vérité pour fuir la réalité et brider les forts. Sa philosophie est un appel à dire oui à la vie telle qu'elle est, à créer ses propres valeurs plutôt qu'à les subir.
 
 ---
+## L'éternel retour
 ## Le nihilisme
 Pour comprendre le *nihilisme* chez Nietzsche, la pire des erreurs serait de regarder dans le dictionnaire la définition du *nihilisme*.
 
