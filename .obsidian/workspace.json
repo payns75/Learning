@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "JiveClub"
             }
+          },
+          {
+            "id": "ccd27f6319599521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Duo Lingo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34b4228b2be149a0",
@@ -180,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/JiveClub.md",
+                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de JiveClub"
+              "title": "Plan de Duo Lingo"
             }
           },
           {
@@ -221,8 +236,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bcc2bd1b3614bc1b",
+  "active": "ccd27f6319599521",
   "lastOpenFiles": [
+    "Divers/JiveClub.md",
     "AI/Gouvernance/Fournisseurs.md",
     "AI/Gouvernance/Gouvernance IA.md",
     "AI/Gouvernance/Gouvernance de données.md",
@@ -230,7 +246,6 @@
     "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/Kanji/Kanji Palier 1.md",
-    "Divers/JiveClub.md",
     "Divers/Japonais/Katakana.md",
     "Divers/Japonais/Exercices/50 mots japonais à connaître.md",
     "Sans titre.md",

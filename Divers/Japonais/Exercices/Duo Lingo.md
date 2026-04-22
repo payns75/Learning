@@ -69,7 +69,6 @@
 - ばすてい　は　どこ　です　か。
 	- *L'arrêt de bus est où?*
 - だいがく　は　ここ　です　か。
-
 #### Chapitre 1, unité 7: Parles de tes effets personnels
 | Kana    | Romaji       | Traduction | Kanji |
 | ------- | ------------ | ---------- | ----- |
