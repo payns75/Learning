@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "file": "Divers/JiveClub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Duo Lingo"
+              "title": "JiveClub"
             }
           }
         ],
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "file": "Divers/JiveClub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Duo Lingo"
+              "title": "Plan de JiveClub"
             }
           },
           {
@@ -223,14 +223,16 @@
   },
   "active": "bcc2bd1b3614bc1b",
   "lastOpenFiles": [
-    "Divers/Japonais/2. Grammaire.md",
+    "AI/Gouvernance/Fournisseurs.md",
+    "AI/Gouvernance/Gouvernance IA.md",
+    "AI/Gouvernance/Gouvernance de données.md",
     "Divers/Japonais/Exercices/Duo Lingo.md",
+    "Divers/Japonais/2. Grammaire.md",
     "Divers/Japonais/Hiragana.md",
     "Divers/Japonais/Kanji/Kanji Palier 1.md",
     "Divers/JiveClub.md",
     "Divers/Japonais/Katakana.md",
     "Divers/Japonais/Exercices/50 mots japonais à connaître.md",
-    "AI/Gouvernance/Fournisseurs.md",
     "Sans titre.md",
     "Philosophie/Philosophes/Nietzsche.md",
     "Divers/Japonais/Kanji/Introduction - Kanji.md",
@@ -250,8 +252,6 @@
     "Philosophie/Philosophes/Sartre.md",
     "Philosophie/Philosophes/_ Prompt fiche philosophe.md",
     "Philosophie/Philosophes/Schopenhauer.md",
-    "Philosophie/Philosophes/William James.md",
-    "AI/Gouvernance/Prompt d'analyse d'un partenaire.md",
     "AI/Gouvernance",
     "Divers/Japonais/Exercices",
     "Divers/Jiujitsu/Sans titre.canvas",
