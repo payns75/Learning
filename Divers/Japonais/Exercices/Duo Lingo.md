@@ -90,4 +90,21 @@
 - いいえ、これ　は　わたしの　かばん　じゃない　です！
 	- *Non, ceci n'est pas mon sac !*
 - わたしの　くつ　は　どこ　です　か。
-	- *Où sont mes chaussures?*
+	- *Où sont mes chaussures ?*
+#### Chapitre 1, Unité 8: Décrire tes amis
+| Kana  | Romaji        | Traduction        | Kanji |
+| ----- | ------------- | ----------------- | ----- |
+| ともだち  | to-mo-da-chi  | ami               | 友達    |
+| あかるい  | a-ka-ru-i     | lumineuse/joyeuse | 明るい   |
+| おもしろい | o-mo-shi-ro-i | interessant       | 面白い   |
+##### Phrases clés
+- たなかさん　は　おもしろい　ひと　です　か。
+	- *M. Tanaka est une personne intéressante ?*
+- やまぐち さん　は　ここ　です。
+	- *M. Yamaguchi est ici.*
+- はい、なかやま　さん　は　いしや　です。
+	- *Oui, M. Tanaka est médecin.*
+- たなか　は　やきしい　です！
+	- *M. Tanaka est gentil !*
+- やまぐち　さん　は　あかるい　ひと　です。
+	- *M. Yamaguchi est une personne joyeuse.*
