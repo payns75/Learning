@@ -6,3 +6,5 @@
 - [x] Les 50 mots à apprendre en japonais
 - [x] Travail jiu-jitsu
 - [ ] Revoir les prononciations, notamment le U et le E. le i à la fin est prononcé 'e' pour allongé le e
+- [ ] Planifier séances de sport - étirements, squats, abdos latérale - + normal
+- [ ] Continuer Nietzsche - Japonnais

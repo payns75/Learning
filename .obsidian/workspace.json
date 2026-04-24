@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "file": "Backlog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Duo Lingo"
+              "title": "Backlog"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divers/Japonais/Exercices/Duo Lingo.md",
+                "file": "Backlog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Duo Lingo"
+              "title": "Plan de Backlog"
             }
           },
           {
@@ -207,9 +207,9 @@
   },
   "active": "ee42a394381c2826",
   "lastOpenFiles": [
+    "Divers/Japonais/Exercices/Duo Lingo.md",
     "Divers/Japonais/2. Grammaire.md",
     "Divers/JiveClub.md",
-    "Divers/Japonais/Exercices/Duo Lingo.md",
     "AI/Gouvernance/Fournisseurs.md",
     "AI/Gouvernance/Gouvernance IA.md",
     "AI/Gouvernance/Gouvernance de données.md",
